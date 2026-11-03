@@ -53,16 +53,75 @@ function status(msg){$('aiStatus').textContent=msg}
 function append(role,content){const el=document.createElement('div');el.className='ai-msg '+role;el.textContent=content;$('aiLog').append(el);$('aiLog').scrollTop=$('aiLog').scrollHeight;return el}
 function menuRows(){const seed=JSON.parse(document.getElementById('seed').textContent);return window.ndFuelMenuRows||seed}
 function num(x){return Number(x)||0}
-function currentContext(){
- const date=$('menuDate').value, hall=$('hall').value;
- const meal=document.querySelector('#mealTabs button.active')?.dataset.meal||'all';
- const q=$('search').value.trim().toLowerCase();
- const rows=menuRows().filter(r=>r.date===date&&(hall==='all'||r.hall===hall)&&(meal==='all'||r.meal===meal)&&(!q||[r.food,r.station,r.allergens_and_tags].join(' ').toLowerCase().includes(q)));
- // Rank high protein and low sodium while retaining variety; keep context small.
- const scored=rows.map(r=>({r,score:num(r.protein_g)*2-num(r.sodium_mg)/100})).sort((a,b)=>b.score-a.score);
- const selected=[...scored.slice(0,55),...rows.slice(0,25).map(r=>({r}))];
- const unique=[...new Map(selected.map(x=>[x.r.food+'|'+x.r.hall+'|'+x.r.station,x.r])).values()].slice(0,70);
- return {date,hall,meal,rows,foods:unique.map(r=>({food:r.food,hall:r.hall,meal:r.meal,station:r.station,serving:r.serving_size,kcal:num(r.calories),protein_g:num(r.protein_g),carbs_g:num(r.carbs_g),fat_g:num(r.fat_g),sodium_mg:num(r.sodium_mg),allergens:r.allergens_and_tags}))};
+function parseRequest(question){
+ const q=question.toLowerCase();
+ const hall=/\bnorth\b/.test(q)?'north':/\bsouth\b/.test(q)?'south':$('hall').value;
+ const meal=/\bbreakfast\b/.test(q)?'breakfast':/\blunch\b/.test(q)?'lunch':/\bdinner\b|\bsupper\b/.test(q)?'dinner':document.querySelector('#mealTabs button.active')?.dataset.meal||'all';
+ const date=$('menuDate').value;
+ const under=(unit)=>{const m=q.match(new RegExp('(?:under|below|less than|at most|max(?:imum)?|≤)\\s*([\\d,]+)\\s*(?:'+unit+')'));return m?Number(m[1].replace(/,/g,'')):null};
+ const proteinTarget=(()=>{const m=q.match(/(?:at least|minimum|over|more than|≥)\s*(\d+)\s*(?:g|grams?)\s*(?:of\s*)?protein|(?:protein\s*(?:target|goal)\s*(?:of|:)?\s*)(\d+)/);return m?Number(m[1]||m[2]):null})();
+ const calories=under('calories|kcal')??(()=>{const m=q.match(/(?:under|below|max|less than)\s*(\d+)\s*(?:calories|kcal)?/);return m&&/calor|kcal/.test(q)?Number(m[1]):null})();
+ const sodium=under('mg(?:\s*of\s*sodium)?') ;
+ const carbs=under('g(?:\s*of\s*carbs?)?|grams?\s*(?:of\s*)?carbs?');
+ return {date,hall,meal,calories,sodium,carbs,proteinTarget,highProtein:/protein|muscle|lifting|workout|bulk/.test(q),lowCarb:/low[ -]?carb|fewer carbs|reduce carbs/.test(q),lowSodium:/low[ -]?sodium|less salt|reduce sodium/.test(q),vegetarian:/\bvegetarian\b/.test(q),vegan:/\bvegan\b/.test(q),question:q};
+}
+const macroKeys=['calories','protein_g','carbs_g','fat_g','fiber_g','sodium_mg'];
+function totals(items){const t=Object.fromEntries(macroKeys.map(k=>[k,0]));for(const r of items)for(const k of macroKeys)t[k]+=Number(r[k]);return t}
+function mealCategory(r){const s=(r.food+' '+r.station).toLowerCase();if(/chicken|turkey|beef|steak|fish|salmon|tuna|pork|tofu|tempeh|egg|lentil|bean|yogurt|cottage cheese/.test(s))return 'protein';if(/salad|vegetable|broccoli|spinach|carrot|pepper|asparagus|green bean|zucchini|cauliflower/.test(s))return 'vegetable';if(/rice|pasta|potato|bread|roll|quinoa|oat|grain|tortilla/.test(s))return 'starch';if(/fruit|apple|banana|berry|orange|melon/.test(s))return 'fruit';return 'other'}
+function mealScore(items,p){const t=totals(items),categories=new Set(items.map(mealCategory));let score=t.protein_g*2.4+Math.min(t.fiber_g,15)*1.8;
+ if(p.lowCarb)score-=t.carbs_g*1.6;else score-=Math.max(0,t.carbs_g-95)*.25;
+ if(p.lowSodium)score-=t.sodium_mg*.035;else score-=t.sodium_mg*.006;
+ if(p.highProtein)score+=t.protein_g*1.3;
+ score-=Math.abs(t.calories-((p.calories||750)*.73))*.065;
+ if(categories.has('protein'))score+=12;if(categories.has('vegetable'))score+=9;
+ if(categories.size>=2)score+=9;
+ if(items.length===1)score-=9;
+ return score;
+}
+function buildMealCandidates(rows,p){
+ // Every matching food is evaluated; nothing is removed from the browsable menu.
+ // Skip entries with missing or clearly anomalous nutrition rather than treating unknown values as zero.
+ const valid=rows.filter(r=>macroKeys.every(k=>r[k]!==''&&r[k]!==null&&r[k]!==undefined&&Number.isFinite(Number(r[k])))&&Number(r.calories)>0&&Number(r.calories)<=1600&&Number(r.protein_g)<=130&&Number(r.sodium_mg)<=5500);
+ const dedup=[...new Map(valid.map(r=>[[r.hall,r.food,r.serving_size].join('|'),r])).values()];
+ const maxCalories=p.calories??1100;
+ const fits=items=>{const t=totals(items);return t.calories<=maxCalories&&(p.sodium===null||t.sodium_mg<=p.sodium)&&(p.carbs===null||t.carbs_g<=p.carbs)};
+ // Beam search considers each food for each stage, rather than preselecting a top-20 list.
+ let beam=[{items:[],score:0}];const results=[];
+ for(let depth=1;depth<=3;depth++){
+  const next=[];
+  for(const state of beam){
+   const used=new Set(state.items.map(r=>r.food+'|'+r.hall));
+   for(const r of dedup){if(used.has(r.food+'|'+r.hall))continue;
+    if(state.items.length&&state.items[0].hall!==r.hall)continue;
+    const items=[...state.items,r];if(!fits(items))continue;
+    next.push({items,score:mealScore(items,p)});
+   }
+  }
+  next.sort((a,b)=>b.score-a.score);
+  // Deduplicate combinations and avoid near-identical recommendations.
+  const seen=new Set();beam=[];
+  for(const c of next){const key=c.items.map(r=>r.food+'|'+r.hall).sort().join('::');if(seen.has(key))continue;seen.add(key);beam.push(c);if(beam.length>=65)break}
+  results.push(...beam);
+ }
+ results.sort((a,b)=>b.score-a.score);
+ const picked=[],seen=new Set();
+ for(const c of results){if(c.items.length<2)continue;const key=c.items.map(r=>r.food).sort().join('|');if(seen.has(key))continue;
+  // Diversify alternatives by limiting overlap.
+  if(picked.some(x=>c.items.filter(r=>x.items.some(y=>y.food===r.food)).length>=2))continue;
+  seen.add(key);picked.push(c);if(picked.length===5)break;
+ }
+ if(!picked.length)for(const c of results.slice(0,3))picked.push(c);
+ return {candidates:picked,considered:rows.length,eligible:dedup.length,excluded:rows.length-dedup.length};
+}
+function currentContext(question){
+ const p=parseRequest(question);
+ // Question's explicit hall/meal overrides page filters. The search box is not used to hide candidates.
+ let rows=menuRows().filter(r=>r.date===p.date&&(p.hall==='all'||r.hall===p.hall)&&(p.meal==='all'||r.meal===p.meal));
+ if(p.vegan)rows=rows.filter(r=>/\bvegan\b/i.test(r.allergens_and_tags||''));
+ else if(p.vegetarian)rows=rows.filter(r=>/\bvegetarian\b/i.test(r.allergens_and_tags||''));
+ const built=buildMealCandidates(rows,p);
+ const candidates=built.candidates.map((c,i)=>({option:i+1,foods:c.items.map(r=>({name:r.food,serving:r.serving_size,hall:r.hall,station:r.station,allergens:r.allergens_and_tags||''})),totals:Object.fromEntries(Object.entries(totals(c.items)).map(([k,v])=>[k,Math.round(v*10)/10]))}));
+ return {request:p,considered:built.considered,eligible:built.eligible,excluded:built.excluded,candidates};
 }
 $('aiLoad').addEventListener('click',async()=>{
  if(engine||loading)return;
@@ -81,12 +140,14 @@ $('aiLoad').addEventListener('click',async()=>{
 });
 async function ask(question){
  if(!engine||!question.trim())return;
- const ctx=currentContext();append('user',question);$('aiSend').disabled=true;
+ const ctx=currentContext(question);append('user',question);$('aiSend').disabled=true;
  const answer=append('assistant','Thinking…');
- if(!ctx.rows.length){answer.textContent='No matching menu items for these filters. Try another date, hall, meal, or search.';$('aiSend').disabled=false;return}
- const system='You are ND Fuel, a practical dining-hall meal assistant. Recommend ONLY foods listed in the supplied menu JSON. Never invent foods, servings, nutrition values, or availability. Use the given serving macros to calculate totals; show your arithmetic and mark totals approximate. Be mindful of allergens. If the menu list is incomplete, say so. Do not claim medical expertise. Be concise and helpful.';
+ if(!ctx.considered){answer.textContent='No menu items found for this date, dining hall and meal. Try another selection.';$('aiSend').disabled=false;return}
+ if(!ctx.candidates.length){answer.textContent='No feasible meal combinations found in the menu data for these constraints. Try a higher calorie limit or broader preferences.';$('aiSend').disabled=false;return}
+ const system='You are ND Fuel, a concise dining-hall nutrition assistant. JavaScript evaluated every matching menu item and computed the candidate meals and exact listed-serving totals. Choose ONLY from the provided numbered options; never invent menu foods, portions, or numbers. Quote the supplied totals (not your own arithmetic). Explain the choice and tradeoffs in 100-180 words. If a stated constraint cannot be met, say so. Availability is based on the published menu, not real-time inventory. Mention relevant allergens if needed.';
  try{
-  const response=await engine.chat.completions.create({messages:[{role:'system',content:system},{role:'user',content:'MENU CONTEXT (filtered; a representative subset, not necessarily every available food):\n'+JSON.stringify(ctx.foods)+'\n\nQUESTION: '+question}],temperature:0.3,max_tokens:550});
+  const compact={date:ctx.request.date,hall:ctx.request.hall,meal:ctx.request.meal,itemsEvaluated:ctx.considered,validItems:ctx.eligible,options:ctx.candidates};
+  const response=await engine.chat.completions.create({messages:[{role:'system',content:system},{role:'user',content:'QUESTION: '+question+'\nCANDIDATE MEALS (nutrition totals computed by website): '+JSON.stringify(compact)}],temperature:0.2,max_tokens:420});
   answer.textContent=response.choices?.[0]?.message?.content||'No response generated.';
  }catch(e){answer.textContent='Could not generate a response: '+(e.message||String(e))}
  finally{$('aiSend').disabled=false}
