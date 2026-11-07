@@ -93,7 +93,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-01,north,dinner,Mezze,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-01,north,dinner,Mezze,Mediterranean Yukon Potato Salad,3 z,91.0,1.0,11.0,4.9,1.0,445.0,"Vegan, Vegetarian"
 2026-11-01,north,dinner,Mezze,Peri Peri Grilled Chicken,1 oz,47.0,4.0,0.0,3.5,0.0,212.0,
-2026-11-01,north,dinner,Mezze,Pica Pau,6 z,311.0,29.0,1.0,20.0,0.0,667.0,"Fish, Soy, Wheat"
+2026-11-01,north,dinner,Mezze,Pica Pau,6 z,313.0,29.0,1.0,20.0,0.0,663.0,"Fish, Soy, Wheat"
 2026-11-01,north,dinner,Mezze,Quinoa,2 z,202.0,8.0,38.0,2.5,4.0,80.0,"High Performance, Vegan, Vegetarian"
 2026-11-01,north,dinner,Mezze,Spiced Pita Chips,1 chip,76.0,1.0,6.0,5.0,0.0,146.0,"Wheat, Vegan, Vegetarian"
 2026-11-01,north,dinner,Mezze,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
@@ -5429,8 +5429,8 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,north,dinner,Deli Condiments,Yellow Mustard,1 tsp,0.0,0.0,0.0,0.0,0.0,60.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,Deli Topping,Dill Pickle,1 slice,0.0,0.0,0.0,0.0,0.0,49.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
-2026-11-06,north,dinner,Dessert,Vanilla Bean Panna Cotta,2.5 oz cup,195.0,2.0,14.0,15.0,0.0,17.0,Dairy
 2026-11-06,north,dinner,Dessert,Vegan Coconut Mousse,2.5 oz,184.0,0.0,16.0,14.0,0.0,36.0,"Soy, Vegan"
+2026-11-06,north,dinner,Dessert,Yadira's Arroz Con Leche,2 oz container,108.0,2.0,20.0,1.7,0.0,9.0,"Dairy, Vegetarian"
 2026-11-06,north,dinner,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-06,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,Domer Diner,Garden Herb Grilled Chicken,1 tender,112.0,21.0,0.0,2.5,0.0,39.0,High Performance
@@ -5469,7 +5469,8 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,north,dinner,La Mesa,Fresh Guacamole,3 z,99.0,1.0,6.0,9.0,4.0,46.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,dinner,La Mesa,Salsa Verde,1 fl oz,68.0,0.0,2.0,6.0,0.0,118.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,La Mesa,Tortilla Chips,1 oz,84.0,2.0,11.0,3.0,2.0,464.0,Vegetarian
-2026-11-06,north,dinner,La Mesa,Yuca Cheese Balls,1 ball,44.0,1.0,6.0,1.9,0.0,96.0,"Dairy, Vegetarian"
+2026-11-06,north,dinner,La Mesa,Yuca Fries,2 z,138.0,1.0,19.0,6.0,2.0,275.0,"Vegan, Vegetarian"
+2026-11-06,north,dinner,Mezze,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,dinner,Mezze,Baked Sweet Potato,1 potatoe,124.0,3.0,27.0,0.9,4.0,45.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,dinner,Mezze,Falafel,3 oz,145.0,6.0,20.0,4.8,5.0,300.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
@@ -5530,6 +5531,11 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,north,dinner,Salad Bar,Sweetened Applesauce,1 #10 can,2187.0,0.0,535.0,0.0,49.0,243.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,Salad Bar,Tri Color Peppers,1 serving,11.0,0.0,2.0,0.0,1.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,dinner,Salad Bar,Tuna,0.25 cups,34.0,8.0,0.0,0.2,0.0,146.0,Fish
+2026-11-06,north,dinner,Shamrock Subs,Clubhouse Potato Chips,2 z,125.0,1.0,10.0,10.0,1.0,549.0,"Vegan, Vegetarian"
+2026-11-06,north,dinner,Shamrock Subs,Coleslaw,0.5 cups,180.0,1.0,19.0,11.0,2.0,380.0,"Egg, Vegetarian"
+2026-11-06,north,dinner,Shamrock Subs,Potato Salad,4 oz,269.0,3.0,15.0,22.0,1.0,554.0,"Dairy, Egg, Pork"
+2026-11-06,north,dinner,Shamrock Subs,Shamrock Sub Sandwich,1 sub,3442.0,156.0,245.0,210.0,10.0,10038.0,"Dairy, Egg, Soy, Wheat, Pork"
+2026-11-06,north,dinner,Shamrock Subs,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-06,north,dinner,Soft Serve,Chocolate Soft Serve Ice Cream,4 z,169.0,4.0,26.0,6.0,1.0,130.0,"Dairy, Vegetarian"
 2026-11-06,north,dinner,Soft Serve,Pineapple DH Dole Whip,4 flz,123.0,0.0,29.0,0.6,0.0,15.0,"Vegan, Vegetarian"
 2026-11-06,north,dinner,Soft Serve,Strawberry Dole Whip,4 flz,125.0,0.0,30.0,0.0,0.0,15.0,"Vegan, Vegetarian"
@@ -5540,16 +5546,11 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,north,dinner,Toppings,Caramel Syrup,1 oz,81.0,0.0,18.0,0.3,0.0,40.0,"Dairy, Vegetarian"
 2026-11-06,north,dinner,Toppings,Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-06,north,dinner,Toppings,Chocolate Syrup,1 oz,67.0,1.0,16.0,0.0,1.0,15.0,"Vegan, Vegetarian"
-2026-11-06,north,dinner,Toppings,Clubhouse Potato Chips,2 z,125.0,1.0,10.0,10.0,1.0,549.0,"Vegan, Vegetarian"
-2026-11-06,north,dinner,Toppings,Coleslaw,0.5 cups,180.0,1.0,19.0,11.0,2.0,380.0,"Egg, Vegetarian"
 2026-11-06,north,dinner,Toppings,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,dinner,Toppings,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
 2026-11-06,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
-2026-11-06,north,dinner,Toppings,Potato Salad,4 oz,269.0,3.0,15.0,22.0,1.0,554.0,"Dairy, Egg, Pork"
 2026-11-06,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
-2026-11-06,north,dinner,Toppings,Shamrock Sub Sandwich,1 sub,3442.0,156.0,245.0,210.0,10.0,10038.0,"Dairy, Egg, Soy, Wheat, Pork"
 2026-11-06,north,dinner,Toppings,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-06,north,dinner,Toppings,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-06,north,lunch,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-06,north,lunch,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-06,north,lunch,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -5638,6 +5639,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,north,lunch,La Mesa,Salsa Verde,1 fl oz,68.0,0.0,2.0,6.0,0.0,118.0,"Vegan, Vegetarian"
 2026-11-06,north,lunch,La Mesa,Tortilla Chips,1 oz,84.0,2.0,11.0,3.0,2.0,464.0,Vegetarian
 2026-11-06,north,lunch,La Mesa,Yuca Cheese Balls,1 ball,44.0,1.0,6.0,1.9,0.0,96.0,"Dairy, Vegetarian"
+2026-11-06,north,lunch,Mezze,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,lunch,Mezze,Baked Sweet Potato,1 potatoe,124.0,3.0,27.0,0.9,4.0,45.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,north,lunch,Mezze,Eggplant Parmesan,3 z,225.0,8.0,23.0,14.0,1.0,375.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-06,north,lunch,Mezze,Garlic Parmesan Breadsticks,1 breadstick,141.0,5.0,21.0,4.6,1.0,218.0,"Dairy, Soy, Wheat, Vegetarian"
@@ -5992,7 +5994,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,south,dinner,Green Harvest,Brown Rice,2 z,60.0,1.0,12.0,0.5,1.0,2.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,south,dinner,Green Harvest,Sauteed Zucchini & Tomatoes,4 z,111.0,2.0,4.0,10.0,1.0,381.0,"Vegan, Vegetarian"
 2026-11-06,south,dinner,Green Harvest,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
-2026-11-06,south,dinner,Green Harvest,Vegetable Moussaka,10 z,259.0,11.0,30.0,11.0,5.0,396.0,"Dairy, Wheat, Vegetarian"
+2026-11-06,south,dinner,Green Harvest,Vegetable Moussaka,10 z,259.0,11.0,30.0,11.0,5.0,397.0,"Dairy, Wheat, Vegetarian"
 2026-11-06,south,dinner,Harvest Bowl,Andes Adobo Bowl,1 bowl,668.0,38.0,83.0,20.0,6.0,1605.0,Dairy
 2026-11-06,south,dinner,Juice,Apple Juice,6 flz cup,14.0,0.0,4.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-06,south,dinner,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
@@ -6288,9 +6290,9 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,south,lunch,Golden Lotus,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,south,lunch,Golden Lotus,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,south,lunch,Green Harvest,Ancient Grains,3 z,157.0,3.0,21.0,6.0,2.0,567.0,Vegan
+2026-11-06,south,lunch,Green Harvest,Cauliflower Rice,4 oz portion,41.0,2.0,6.0,1.3,2.0,316.0,"High Performance, Vegan, Vegetarian"
 2026-11-06,south,lunch,Green Harvest,Sauteed Zucchini & Tomatoes,4 z,111.0,2.0,4.0,10.0,1.0,381.0,"Vegan, Vegetarian"
 2026-11-06,south,lunch,Green Harvest,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
-2026-11-06,south,lunch,Green Harvest,Vegetable Moussaka,1 lbs,415.0,17.0,48.0,17.0,8.0,635.0,"Dairy, Wheat, Vegetarian"
 2026-11-06,south,lunch,Harvest Bowl,Andes Adobo Bowl,1 bowl,668.0,38.0,83.0,20.0,6.0,1605.0,Dairy
 2026-11-06,south,lunch,Juice,Apple Juice,6 flz cup,14.0,0.0,4.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-06,south,lunch,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
@@ -6430,8 +6432,8 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-06,south,lunch,Soft Serve,Vanilla Soft Serve Ice Cream,4 z,182.0,4.0,25.0,6.0,0.0,136.0,"Dairy, Vegetarian"
 2026-11-06,south,lunch,Soup,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
 2026-11-06,south,lunch,Soup,Baked Potato,1 potato,152.0,4.0,31.0,0.9,4.0,12.0,"High Performance, Vegan, Vegetarian"
+2026-11-06,south,lunch,Soup,Chicken Noodle Soup,8 z,103.0,5.0,12.0,3.1,1.0,1006.0,"Dairy, Egg, Soy, Wheat"
 2026-11-06,south,lunch,Soup,Chive,1 chive,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-06,south,lunch,Soup,Danny's Texas Chili,6 z,128.0,8.0,11.0,6.0,2.0,747.0,High Performance
 2026-11-06,south,lunch,Soup,Fritos,1 oz,160.0,2.0,16.0,10.0,1.0,170.0,"Vegan, Vegetarian"
 2026-11-06,south,lunch,Soup,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-06,south,lunch,Soup,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
@@ -6635,6 +6637,8 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-07,north,dinner,Soup,Danny's Texas Chili,6 z,128.0,8.0,11.0,6.0,2.0,747.0,High Performance
 2026-11-07,north,dinner,Soup,Miso Ginger Chicken Soup,8 z,96.0,10.0,8.0,3.4,1.0,721.0,"Sesame, Soy"
 2026-11-07,north,dinner,Soup,Tomato Bisque Soup,8 oz cup,276.0,3.0,17.0,22.0,3.0,276.0,"Dairy, Vegetarian"
+2026-11-07,north,dinner,Toppings,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
+2026-11-07,north,dinner,Toppings,Caprese Chicken,1 serving,276.0,23.0,9.0,16.0,0.0,935.0,"Dairy, High Performance"
 2026-11-07,north,dinner,Toppings,Caramel Syrup,1 oz,81.0,0.0,18.0,0.3,0.0,40.0,"Dairy, Vegetarian"
 2026-11-07,north,dinner,Toppings,Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-07,north,dinner,Toppings,Chocolate Syrup,1 oz,67.0,1.0,16.0,0.0,1.0,15.0,"Vegan, Vegetarian"
@@ -6936,15 +6940,10 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-08,north,dinner,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-08,north,dinner,Comfort Kitchen,Beef Barley Soup,8 z,83.0,5.0,14.0,0.9,3.0,778.0,Soy
-2026-11-08,north,dinner,Comfort Kitchen,Brooklyn Blackout Cake,1 sheetcake,22318.0,243.0,2676.0,1145.0,42.0,20796.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
-2026-11-08,north,dinner,Comfort Kitchen,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-08,north,dinner,Comfort Kitchen,Fresh Green Beans with Bacon,3 oz,91.0,5.0,6.0,6.0,2.0,559.0,Pork
 2026-11-08,north,dinner,Comfort Kitchen,Fried Buttermilk Chicken,4.7 oz portion,1037.0,46.0,26.0,87.0,1.0,2127.0,"Dairy, Wheat"
 2026-11-08,north,dinner,Comfort Kitchen,Housemade Biscuits,1 biscuit,438.0,7.0,46.0,24.0,2.0,1196.0,"Dairy, Wheat, Vegetarian"
 2026-11-08,north,dinner,Comfort Kitchen,Macaroni and Cheese Classic,4 oz,353.0,16.0,46.0,12.0,2.0,372.0,"Dairy, Wheat"
-2026-11-08,north,dinner,Comfort Kitchen,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
-2026-11-08,north,dinner,Comfort Kitchen,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-08,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-08,north,dinner,Crust & Co,Mexican Asada Pizza,1 pizza,2535.0,168.0,174.0,124.0,10.0,8151.0,"Dairy, Wheat"
 2026-11-08,north,dinner,Crust & Co,Sausage Pizza,1 pizza,3418.0,160.0,289.0,197.0,30.0,10619.0,"Dairy, Soy, Wheat, Pork"
@@ -6959,6 +6958,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-08,north,dinner,Deli Meat,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
 2026-11-08,north,dinner,Deli Meat,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-08,north,dinner,Deli Topping,Dill Pickle,1 slice,0.0,0.0,0.0,0.0,0.0,49.0,"Vegan, Vegetarian"
+2026-11-08,north,dinner,Deli Topping,Fresh Guacamole,3 z,99.0,1.0,6.0,9.0,4.0,46.0,"High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
@@ -6978,9 +6978,13 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-08,north,dinner,Fresh Fruit,Bananas,1 banana,141.0,1.0,35.0,0.0,4.0,0.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,Fresh Fruit,Gala Apples,1 apple,119.0,1.0,29.0,0.3,5.0,0.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,Fresh Fruit,Orange,1 orange,96.0,2.0,24.0,0.2,5.0,0.0,"Vegan, Vegetarian"
+2026-11-08,north,dinner,Global Compass,Beef Barley Soup,8 z,83.0,5.0,14.0,0.9,3.0,778.0,Soy
+2026-11-08,north,dinner,Global Compass,Brooklyn Blackout Cake,1 sheetcake,22318.0,243.0,2676.0,1145.0,42.0,20796.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
+2026-11-08,north,dinner,Global Compass,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-08,north,dinner,Global Compass,Egg Roll,1 egg roll,168.0,3.0,17.0,7.0,2.0,413.0,"Egg, Sesame, Soy, Wheat, Vegetarian"
-2026-11-08,north,dinner,Global Compass,Fried Rice,4 z,317.0,10.0,57.0,4.0,0.0,639.0,"Egg, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-08,north,dinner,Global Compass,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-08,north,dinner,Global Compass,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
+2026-11-08,north,dinner,Global Compass,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-08,north,dinner,Global Compass,Mongolian Beef,4 z,185.0,17.0,8.0,8.0,1.0,805.0,"Sesame, Soy, Wheat, High Performance"
 2026-11-08,north,dinner,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,Green & Grains,Gyro Bowl,1 bowl,1746.0,73.0,137.0,104.0,23.0,4639.0,"Dairy, Sesame, Soy, Wheat"
@@ -6995,13 +6999,13 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-08,north,dinner,La Mesa,Carne Asada Fajita,1 fajita,191.0,13.0,22.0,6.0,5.0,362.0,Wheat
 2026-11-08,north,dinner,La Mesa,Chicken Fajita,5.3 z,342.0,26.0,42.0,9.0,6.0,846.0,"Wheat, High Performance"
 2026-11-08,north,dinner,La Mesa,Flour Tortilla,6 in tortilla,99.0,2.0,15.0,2.8,1.0,188.0,"Wheat, Vegan, Vegetarian"
-2026-11-08,north,dinner,La Mesa,Fresh Guacamole,3 z,99.0,1.0,6.0,9.0,4.0,46.0,"High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,La Mesa,Frijoles Charros,4 z,272.0,23.0,64.0,6.0,37.0,339.0,Pork
 2026-11-08,north,dinner,La Mesa,Gonzalo's Rice,3 z,277.0,5.0,54.0,3.2,0.0,367.0,High Performance
 2026-11-08,north,dinner,La Mesa,Salsa Verde,1 fl oz,68.0,0.0,2.0,6.0,0.0,118.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,La Mesa,Tortilla Chips,1 oz,84.0,2.0,11.0,3.0,2.0,464.0,Vegetarian
 2026-11-08,north,dinner,La Mesa,White Corn Tortilla,6 in tortilla,57.0,1.0,12.0,0.5,2.0,8.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,Mezze,Baked Sweet Potato,1 potatoe,124.0,3.0,27.0,0.9,4.0,45.0,"High Performance, Vegan, Vegetarian"
+2026-11-08,north,dinner,Mezze,Fried Rice,4 z,317.0,10.0,57.0,4.0,0.0,639.0,"Egg, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-08,north,dinner,Mezze,Garlic Parmesan Breadsticks,1 breadstick,141.0,5.0,21.0,4.6,1.0,218.0,"Dairy, Soy, Wheat, Vegetarian"
 2026-11-08,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,Mezze,Quinoa,2 z,202.0,8.0,38.0,2.5,4.0,80.0,"High Performance, Vegan, Vegetarian"
@@ -7062,18 +7066,27 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-08,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-08,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-08,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-08,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-08,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-08,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
 2026-11-08,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
 2026-11-08,north,dinner,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-08,north,dinner,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-09,north,breakfast,"Bar, MYOO",Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
+2026-11-09,north,breakfast,"Bar, MYOO",Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
+2026-11-09,north,breakfast,"Bar, MYOO",Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
 2026-11-09,north,breakfast,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
 2026-11-09,north,breakfast,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
 2026-11-09,north,breakfast,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-09,north,breakfast,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-09,north,breakfast,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-09,north,breakfast,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-09,north,breakfast,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-09,north,breakfast,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-09,north,breakfast,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -7091,7 +7104,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,breakfast,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-09,north,breakfast,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
@@ -7120,23 +7132,22 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,breakfast,Oatmeal Toppings,Light Brown Sugar,1 tsp,15.0,0.0,4.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,Oatmeal Toppings,Nutmeg,0.25 tsp,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,Oatmeal Toppings,Raisins,1 oz,92.0,1.0,22.0,0.0,1.0,7.0,"Vegan, Vegetarian"
-2026-11-09,north,breakfast,Omelets,Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
-2026-11-09,north,breakfast,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
-2026-11-09,north,breakfast,Other Food Items,Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
-2026-11-09,north,breakfast,Other Food Items,Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
-2026-11-09,north,breakfast,Other Food Items,Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
+2026-11-09,north,breakfast,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Pastries,Blueberry Muffin Top,1.95 z,171.0,1.0,25.0,7.0,2.0,149.0,"Egg, Wheat, Vegetarian"
 2026-11-09,north,breakfast,Pastries,Chocolate Chip Muffin Top,1.95 z,182.0,2.0,27.0,8.0,2.0,176.0,"Egg, Soy, Wheat, Vegetarian"
 2026-11-09,north,breakfast,Pastries,Glazed Donut,1 donut,260.0,4.0,31.0,14.0,1.0,260.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-09,north,breakfast,Pastries,Sour Cream Glaze Cake Donut,1 ct,382.0,4.0,51.0,19.0,1.0,333.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,breakfast,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-09,north,breakfast,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-09,north,breakfast,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar,Green Pepper,1 oz,6.0,0.0,1.0,0.0,1.0,0.0,"Vegan, Vegetarian"
-2026-11-09,north,breakfast,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar,Mushroom,0.25 cups,4.0,0.0,1.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar,Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-09,north,breakfast,Salad Bar,Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
-2026-11-09,north,breakfast,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-09,north,breakfast,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-09,north,breakfast,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
+2026-11-09,north,breakfast,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar,Tomato,1 oz,5.0,0.0,1.0,0.0,0.0,2.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Salad Bar Greens,Spinach,0.25 cups,4.0,1.0,1.0,0.0,1.0,18.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Sunrise Kitchen,Breakfast Smoked Sausage Links,2 link,130.0,5.0,2.0,13.0,0.0,405.0,Pork
@@ -7150,7 +7161,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,breakfast,The Global Compass,Fresh Strawberries in Syrup,3 z,69.0,1.0,18.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,The Global Compass,Fresh Whipped Cream,1 fl oz,46.0,0.0,2.0,4.4,0.0,0.0,Dairy
 2026-11-09,north,breakfast,The Global Compass,Oatmeal,4 z,77.0,3.0,14.0,0.0,2.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-09,north,breakfast,The Global Compass,Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
 2026-11-09,north,breakfast,Toasting Station,Peanut Butter,0.75 z,122.0,4.0,6.0,10.0,1.0,103.0,"Peanuts, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Toasting Station,Unsalted Butter,1 oz,28.0,0.0,0.0,3.1,0.0,27.0,"Dairy, Vegetarian"
 2026-11-09,north,breakfast,Toasting Station Bagels,Plain Bagels,4.5 z,316.0,11.0,65.0,1.0,2.0,575.0,"Soy, Wheat, Vegan, Vegetarian"
@@ -7163,13 +7173,9 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,breakfast,Toppings,Ground Flax Seed,1 oz,151.0,5.0,8.0,12.0,8.0,9.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,breakfast,Waffle and Pancake Toppings,Semi Sweet Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-09,north,breakfast,Waffle and Pancake Toppings,Whipped Butter,1 butter cup,40.0,0.0,0.0,4.0,0.0,30.0,"Dairy, Vegetarian"
-2026-11-09,north,breakfast,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-09,north,breakfast,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-09,north,breakfast,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-09,north,breakfast,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-09,north,breakfast,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-09,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-09,north,dinner,Broth Lab,Fried Rice,4 z,317.0,10.0,57.0,4.0,0.0,639.0,"Egg, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-09,north,dinner,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-09,north,dinner,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -7205,7 +7211,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,dinner,Comfort Kitchen,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-09,north,dinner,Crust & Co,BBQ Chicken Pizza,1 pizza,3093.0,174.0,400.0,96.0,20.0,9354.0,"Dairy, Wheat"
 2026-11-09,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
-2026-11-09,north,dinner,Crust & Co,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
 2026-11-09,north,dinner,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,dinner,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
 2026-11-09,north,dinner,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
@@ -7221,7 +7226,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,dinner,Dessert,Lemon Ricotta Cake,1 sheetpan,10666.0,198.0,1897.0,263.0,32.0,7332.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-09,north,dinner,Dessert,Vegan Matcha Chia Pudding,2.5 oz cup,74.0,2.0,8.0,4.4,3.0,29.0,"High Performance, Vegan, Vegetarian"
-2026-11-09,north,dinner,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-09,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Domer Diner,Garden Herb Grilled Chicken,1 tender,112.0,21.0,0.0,2.5,0.0,39.0,High Performance
 2026-11-09,north,dinner,Domer Diner,Hand Breaded Chicken Tenders,4 z,245.0,17.0,27.0,7.0,1.0,766.0,"Dairy, Egg, Wheat"
@@ -7241,12 +7245,12 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,dinner,Fresh Fruit,Bananas,1 banana,141.0,1.0,35.0,0.0,4.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Fresh Fruit,Gala Apples,1 apple,119.0,1.0,29.0,0.3,5.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Fresh Fruit,Orange,1 orange,96.0,2.0,24.0,0.2,5.0,0.0,"Vegan, Vegetarian"
-2026-11-09,north,dinner,Global Compass,Fried Rice,4 z,317.0,10.0,57.0,4.0,0.0,639.0,"Egg, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-09,north,dinner,Global Compass,General Tso Chicken,6 z,311.0,13.0,48.0,8.0,3.0,882.0,"Dairy, Egg, Sesame, Soy, Wheat"
 2026-11-09,north,dinner,Global Compass,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,dinner,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,dinner,Global Compass,Steamed Pork Bao Bun,1 bun,130.0,6.0,23.0,4.0,0.0,150.0,"Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-09,north,dinner,Green & Grains,Korean Rice Bowl,1 bowl,525.0,32.0,51.0,21.0,3.0,1502.0,"Egg, Sesame, Soy, Wheat"
+2026-11-09,north,dinner,Green & Grains,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
 2026-11-09,north,dinner,Grill Condiments,Ketchup,1 oz,6.0,0.0,1.0,0.0,0.0,14.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Grill Condiments,Spicy Brown Mustard,1 oz,28.0,0.0,0.0,0.0,0.0,283.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Homestyle 2,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
@@ -7262,6 +7266,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,dinner,La Mesa,Tortilla Chips,1 oz,84.0,2.0,11.0,3.0,2.0,464.0,Vegetarian
 2026-11-09,north,dinner,La Mesa,Tostones (Twice-Fried Green Plantains),3 z,262.0,1.0,20.0,21.0,1.0,545.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Mezze,Baked Sweet Potato,1 potatoe,124.0,3.0,27.0,0.9,4.0,45.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,dinner,Mezze,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-09,north,dinner,Mezze,Chix Parmigiana,6.5 z,332.0,18.0,18.0,21.0,1.0,943.0,"Dairy, Soy, Wheat"
 2026-11-09,north,dinner,Mezze,Garlic Knots,1 garlic knot,49.0,1.0,7.0,1.7,0.0,83.0,"Dairy, Wheat, Vegetarian"
 2026-11-09,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
@@ -7325,13 +7330,12 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-09,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-09,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-09,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
 2026-11-09,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
 2026-11-09,north,dinner,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-09,north,dinner,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-09,north,lunch,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-09,north,lunch,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -7339,7 +7343,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,lunch,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-09,north,lunch,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-09,north,lunch,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-09,north,lunch,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-09,north,lunch,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-09,north,lunch,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-09,north,lunch,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -7364,25 +7367,26 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,lunch,Crust & Co,BBQ Chicken Pizza,1 pizza,3093.0,174.0,400.0,96.0,20.0,9354.0,"Dairy, Wheat"
 2026-11-09,north,lunch,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-09,north,lunch,Crust & Co,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
-2026-11-09,north,lunch,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Deli,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Deli,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-09,north,lunch,Deli,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
 2026-11-09,north,lunch,Deli,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
 2026-11-09,north,lunch,Deli,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
-2026-11-09,north,lunch,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Deli,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
+2026-11-09,north,lunch,Deli,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-09,north,lunch,Deli,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
+2026-11-09,north,lunch,Deli,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
+2026-11-09,north,lunch,Deli,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-09,north,lunch,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-09,north,lunch,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
-2026-11-09,north,lunch,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
-2026-11-09,north,lunch,Deli Cheese,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Deli Condiments,Mayonnaise,1 Tbsp,100.0,0.0,1.0,11.0,0.0,75.0,"Egg, Vegetarian"
 2026-11-09,north,lunch,Deli Condiments,Yellow Mustard,1 tsp,0.0,0.0,0.0,0.0,0.0,60.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Deli Meat,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
-2026-11-09,north,lunch,Deli Meat,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
-2026-11-09,north,lunch,Deli Meat,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
-2026-11-09,north,lunch,Deli Meat,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-09,north,lunch,Deli Topping,Dill Pickle,1 slice,0.0,0.0,0.0,0.0,0.0,49.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Dessert,Chocolate Chunk Cookie,1 cookie,178.0,2.0,28.0,8.0,0.0,134.0,"Dairy, Egg, Soy, Wheat"
+2026-11-09,north,lunch,Dessert,White Chocolate Cranberry Cookie,1 cookie,178.0,1.0,27.0,7.0,0.0,148.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-09,north,lunch,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-09,north,lunch,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Domer Diner,Garden Herb Grilled Chicken,1 tender,112.0,21.0,0.0,2.5,0.0,39.0,High Performance
@@ -7407,13 +7411,9 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,lunch,Global Compass,Steamed Basmati Rice,4 z,180.0,3.0,40.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Global Compass,Tikka Masala Chicken,4 z,186.0,19.0,4.0,10.0,1.0,632.0,"Dairy, High Performance"
-2026-11-09,north,lunch,Global Compass,White Chocolate Cranberry Cookie,1 cookie,178.0,1.0,27.0,7.0,0.0,148.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-09,north,lunch,Green & Grains,Korean Rice Bowl,1 bowl,525.0,32.0,51.0,21.0,3.0,1502.0,"Egg, Sesame, Soy, Wheat"
 2026-11-09,north,lunch,Grill Condiments,Ketchup,1 oz,6.0,0.0,1.0,0.0,0.0,14.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Grill Condiments,Spicy Brown Mustard,1 oz,28.0,0.0,0.0,0.0,0.0,283.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Homestyle 2,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
-2026-11-09,north,lunch,Homestyle 2,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
-2026-11-09,north,lunch,Homestyle 2,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
 2026-11-09,north,lunch,Juice,Apple Juice,6 flz cup,14.0,0.0,4.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Juice,Orange,6 flz cup,17.0,0.0,4.0,0.0,0.0,8.0,"Vegan, Vegetarian"
@@ -7426,7 +7426,9 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,lunch,Mezze,Baked Sweet Potato,1 potatoe,124.0,3.0,27.0,0.9,4.0,45.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Mezze,Falafel,3 oz,145.0,6.0,20.0,4.8,5.0,300.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Mezze,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
 2026-11-09,north,lunch,Mezze,Hummus Kalamata Olive,1 z,81.0,2.0,4.0,7.0,1.0,210.0,"Sesame, Vegan, Vegetarian"
+2026-11-09,north,lunch,Mezze,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Mezze,Lemon Grilled Salmon,1 fillet,210.0,18.0,0.0,14.0,0.0,491.0,"Fish, High Performance"
 2026-11-09,north,lunch,Mezze,Provencal Vegetables Hot-Pot,1 pot,2793.0,82.0,403.0,122.0,103.0,25440.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Mezze,Quinoa,4 z,403.0,15.0,76.0,5.0,8.0,159.0,"High Performance, Vegan, Vegetarian"
@@ -7439,37 +7441,47 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,lunch,Milk,Oat Milk,1 cups,111.0,1.0,13.0,6.0,1.0,106.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Milk,Skim,8 flz,79.0,8.0,11.0,0.0,0.0,118.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Milk,Soy,1 cups,101.0,8.0,10.0,3.0,3.0,81.0,"Soy, Vegan, Vegetarian"
-2026-11-09,north,lunch,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-09,north,lunch,Other Food Items,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Other Food Items,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Other Food Items,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
+2026-11-09,north,lunch,Other Food Items,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-09,north,lunch,Other Food Items,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-09,north,lunch,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Other Food Items,Tuna,0.25 cups,34.0,8.0,0.0,0.2,0.0,146.0,Fish
 2026-11-09,north,lunch,Pastaria,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
 2026-11-09,north,lunch,Protein Bar,Quinoa & Lentil Salad,3 z,196.0,6.0,21.0,9.0,4.0,680.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Salad Bar,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
 2026-11-09,north,lunch,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Baby Carrots,3 carrot,9.0,0.0,2.0,0.0,1.0,16.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Black Beans,1 oz,24.0,2.0,4.0,0.0,1.0,28.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Broccoli Florets,4 z,36.0,3.0,8.0,0.4,4.0,47.0,"Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Celery Sticks,1 oz,4.0,0.0,1.0,0.1,1.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
+2026-11-09,north,lunch,Salad Bar,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
 2026-11-09,north,lunch,Salad Bar,Croutons,1 oz,121.0,4.0,20.0,4.1,0.0,304.0,"Dairy, Wheat, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-09,north,lunch,Salad Bar,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Feta Cheese,1 oz,71.0,4.0,1.0,6.0,0.0,324.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Garbanzo Beans,1 oz,28.0,2.0,5.0,0.4,1.0,31.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Mushroom,1 Tbsp,2.0,0.0,0.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Shredded Carrot,1 Tbsp,2.0,0.0,1.0,0.0,0.0,4.0,"Vegan, Vegetarian"
+2026-11-09,north,lunch,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Sweetened Applesauce,1 #10 can,2187.0,0.0,535.0,0.0,49.0,243.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar,Tri Color Peppers,1 serving,11.0,0.0,2.0,0.0,1.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
-2026-11-09,north,lunch,Salad Bar Dressing,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
-2026-11-09,north,lunch,Salad Bar Dressing,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
-2026-11-09,north,lunch,Salad Bar Dressing,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
-2026-11-09,north,lunch,Salad Bar Dressing,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar Greens,Iceberg Lettuce,1 cups,6.0,0.0,2.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar Greens,Spinach,1 oz,5.0,1.0,1.0,0.0,1.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-09,north,lunch,Salad Bar Greens,Spring Mix,1 oz,5.0,0.0,1.0,0.1,1.0,8.0,"High Performance, Vegan, Vegetarian"
@@ -7497,18 +7509,21 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-09,north,lunch,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-09,north,lunch,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-09,north,lunch,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
-2026-11-09,north,lunch,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-09,north,lunch,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-09,north,lunch,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-09,north,lunch,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-09,north,lunch,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-10,north,breakfast,"Bar, MYOO",Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
+2026-11-10,north,breakfast,"Bar, MYOO",Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
+2026-11-10,north,breakfast,"Bar, MYOO",Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
 2026-11-10,north,breakfast,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
 2026-11-10,north,breakfast,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
 2026-11-10,north,breakfast,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-10,north,breakfast,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-10,north,breakfast,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-10,north,breakfast,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-10,north,breakfast,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-10,north,breakfast,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-10,north,breakfast,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -7526,7 +7541,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,breakfast,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-10,north,breakfast,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
@@ -7555,23 +7569,22 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,breakfast,Oatmeal Toppings,Light Brown Sugar,1 tsp,15.0,0.0,4.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,Oatmeal Toppings,Nutmeg,0.25 tsp,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,Oatmeal Toppings,Raisins,1 oz,92.0,1.0,22.0,0.0,1.0,7.0,"Vegan, Vegetarian"
-2026-11-10,north,breakfast,Omelets,Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
-2026-11-10,north,breakfast,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
-2026-11-10,north,breakfast,Other Food Items,Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
-2026-11-10,north,breakfast,Other Food Items,Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
-2026-11-10,north,breakfast,Other Food Items,Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
+2026-11-10,north,breakfast,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Pastries,Blueberry Muffin Top,1.95 z,171.0,1.0,25.0,7.0,2.0,149.0,"Egg, Wheat, Vegetarian"
 2026-11-10,north,breakfast,Pastries,Chocolate Chip Muffin Top,1.95 z,182.0,2.0,27.0,8.0,2.0,176.0,"Egg, Soy, Wheat, Vegetarian"
 2026-11-10,north,breakfast,Pastries,Glazed Donut,1 donut,260.0,4.0,31.0,14.0,1.0,260.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-10,north,breakfast,Pastries,Sour Cream Glaze Cake Donut,1 ct,382.0,4.0,51.0,19.0,1.0,333.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,breakfast,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-10,north,breakfast,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-10,north,breakfast,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar,Green Pepper,1 oz,6.0,0.0,1.0,0.0,1.0,0.0,"Vegan, Vegetarian"
-2026-11-10,north,breakfast,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar,Mushroom,0.25 cups,4.0,0.0,1.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar,Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-10,north,breakfast,Salad Bar,Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
-2026-11-10,north,breakfast,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-10,north,breakfast,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-10,north,breakfast,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
+2026-11-10,north,breakfast,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar,Tomato,1 oz,5.0,0.0,1.0,0.0,0.0,2.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Salad Bar Greens,Spinach,0.25 cups,4.0,1.0,1.0,0.0,1.0,18.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Sunrise Kitchen,Chicken Sausage Link,2 link,115.0,18.0,0.0,4.1,0.0,600.0,
@@ -7585,7 +7598,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,breakfast,The Global Compass,Fresh Strawberries in Syrup,3 z,69.0,1.0,18.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,The Global Compass,Fresh Whipped Cream,1 fl oz,46.0,0.0,2.0,4.4,0.0,0.0,Dairy
 2026-11-10,north,breakfast,The Global Compass,Oatmeal,4 z,77.0,3.0,14.0,0.0,2.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-10,north,breakfast,The Global Compass,Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
 2026-11-10,north,breakfast,Toasting Station,Peanut Butter,0.75 z,122.0,4.0,6.0,10.0,1.0,103.0,"Peanuts, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Toasting Station,Unsalted Butter,1 oz,28.0,0.0,0.0,3.1,0.0,27.0,"Dairy, Vegetarian"
 2026-11-10,north,breakfast,Toasting Station Bagels,Plain Bagels,4.5 z,316.0,11.0,65.0,1.0,2.0,575.0,"Soy, Wheat, Vegan, Vegetarian"
@@ -7598,15 +7610,11 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,breakfast,Toppings,Ground Flax Seed,1 oz,151.0,5.0,8.0,12.0,8.0,9.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,breakfast,Waffle and Pancake Toppings,Semi Sweet Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-10,north,breakfast,Waffle and Pancake Toppings,Whipped Butter,1 butter cup,40.0,0.0,0.0,4.0,0.0,30.0,"Dairy, Vegetarian"
-2026-11-10,north,breakfast,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-10,north,breakfast,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-10,north,breakfast,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-10,north,breakfast,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-10,north,breakfast,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Boom Boom Salad,Peppadew Pepper,1 Tbsp,33.0,0.0,8.0,0.0,0.0,61.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
+2026-11-10,north,dinner,Broth Lab,Roast Pork Fried Rice,3 oz,275.0,6.0,47.0,6.0,0.0,742.0,"Sesame, Soy, Wheat, Pork"
 2026-11-10,north,dinner,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
 2026-11-10,north,dinner,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
@@ -7640,7 +7648,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,dinner,Comfort Kitchen,Scalloped Potatoes,32 piece cut,138.0,2.0,22.0,3.8,1.0,564.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Comfort Kitchen,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-10,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
-2026-11-10,north,dinner,Crust & Co,Sausage Pepper & Onion Pizza,1 pizza,2736.0,139.0,289.0,124.0,26.0,8406.0,"Dairy, Wheat, Pork"
 2026-11-10,north,dinner,Crust & Co,Sausage Pizza,1 pizza,3418.0,160.0,289.0,197.0,30.0,10619.0,"Dairy, Soy, Wheat, Pork"
 2026-11-10,north,dinner,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
@@ -7656,10 +7663,12 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,dinner,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Dessert,Mini Tres Leches Cake,1 cake,394.0,5.0,47.0,21.0,0.0,130.0,"Dairy, Egg, Wheat, Vegetarian"
+2026-11-10,north,dinner,Dessert,Sausage Pepper & Onion Pizza,1 pizza,2736.0,139.0,289.0,124.0,26.0,8406.0,"Dairy, Wheat, Pork"
 2026-11-10,north,dinner,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-10,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Domer Diner,Garden Herb Grilled Chicken,1 tender,112.0,21.0,0.0,2.5,0.0,39.0,High Performance
 2026-11-10,north,dinner,Domer Diner,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
+2026-11-10,north,dinner,Domer Diner,Pork Souvlaki,2 oz portion,108.0,17.0,0.0,3.8,0.0,176.0,
 2026-11-10,north,dinner,Domer Diner,Reuben Sandwich,1 sandwich,957.0,35.0,58.0,64.0,4.0,2300.0,"Dairy, Egg, Soy, Wheat"
 2026-11-10,north,dinner,Domer Diner,Smash Burger,1 burger,569.0,28.0,51.0,27.0,2.0,1176.0,"Sesame, Wheat"
 2026-11-10,north,dinner,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
@@ -7678,7 +7687,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,dinner,Global Compass,Beef & Broccoli,4 z,151.0,19.0,7.0,4.9,2.0,1012.0,"Shellfish, Soy, Wheat"
 2026-11-10,north,dinner,Global Compass,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Global Compass,Pork Potsticker,1 potsticker,50.0,3.0,7.0,1.5,0.0,120.0,"Sesame, Soy, Wheat, Pork"
-2026-11-10,north,dinner,Global Compass,Roast Pork Fried Rice,3 oz,275.0,6.0,47.0,6.0,0.0,742.0,"Sesame, Soy, Wheat, Pork"
 2026-11-10,north,dinner,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Green & Grains,Boom Boom Chicken Salad,1 salad,741.0,30.0,27.0,55.0,2.0,1726.0,"Dairy, Egg, Soy, Wheat"
 2026-11-10,north,dinner,Green & Grains,Double Grilled Chicken Breast Chunks,3 z,120.0,18.0,3.0,3.5,0.0,590.0,High Performance
@@ -7704,7 +7712,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,dinner,Mezze,Garlic Parmesan Breadsticks,1 breadstick,141.0,5.0,21.0,4.6,1.0,218.0,"Dairy, Soy, Wheat, Vegetarian"
 2026-11-10,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Mezze,Polenta Root Vegetables,3 z,99.0,2.0,12.0,4.8,1.0,116.0,"Dairy, High Performance, Vegetarian"
-2026-11-10,north,dinner,Mezze,Pork Souvlaki,2 oz portion,108.0,17.0,0.0,3.8,0.0,176.0,
 2026-11-10,north,dinner,Mezze,Quinoa,4 z,403.0,15.0,76.0,5.0,8.0,159.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Mezze,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Mezze,Vodka Sauce Pasta,8 z,430.0,10.0,32.0,29.0,2.0,744.0,"Dairy, Wheat, Vegetarian"
@@ -7752,6 +7759,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,dinner,Salad Bar Proteins,Chopped Hard Cooked Eggs,0.5 z,20.0,2.0,0.0,1.6,0.0,20.0,Egg
 2026-11-10,north,dinner,Salad Bar Toppings,Light Red Kidney Bean,1 oz,26.0,2.0,5.0,0.0,2.0,31.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Salad Bar Vegetables,Red Grape Tomato,1 oz,8.0,0.0,2.0,0.2,1.0,2.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,dinner,Shamrock Subs,Shamrock Sub Sandwich,1 sub,3442.0,156.0,245.0,210.0,10.0,10038.0,"Dairy, Egg, Soy, Wheat, Pork"
 2026-11-10,north,dinner,Soft Serve,Chocolate Soft Serve Ice Cream,4 z,169.0,4.0,26.0,6.0,1.0,130.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Soft Serve,Pineapple DH Dole Whip,4 flz,123.0,0.0,29.0,0.6,0.0,15.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Soft Serve,Strawberry Dole Whip,4 flz,125.0,0.0,30.0,0.0,0.0,15.0,"Vegan, Vegetarian"
@@ -7759,21 +7767,18 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,dinner,Soup,Chicken Tortilla Soup,8 z,142.0,7.0,17.0,4.6,3.0,810.0,Wheat
 2026-11-10,north,dinner,Soup,Danny's Texas Chili,6 z,128.0,8.0,11.0,6.0,2.0,747.0,High Performance
 2026-11-10,north,dinner,Soup,Tomato Bisque Soup,8 oz cup,276.0,3.0,17.0,22.0,3.0,276.0,"Dairy, Vegetarian"
-2026-11-10,north,dinner,Subs Outs,Shamrock Sub Sandwich,1 sub,3442.0,156.0,245.0,210.0,10.0,10038.0,"Dairy, Egg, Soy, Wheat, Pork"
 2026-11-10,north,dinner,Toppings,Caramel Syrup,1 oz,81.0,0.0,18.0,0.3,0.0,40.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Toppings,Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-10,north,dinner,Toppings,Chocolate Syrup,1 oz,67.0,1.0,16.0,0.0,1.0,15.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-10,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-10,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
 2026-11-10,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-10,north,dinner,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Boom Boom Salad,Peppadew Pepper,1 Tbsp,33.0,0.0,8.0,0.0,0.0,61.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-10,north,lunch,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -7781,7 +7786,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,lunch,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-10,north,lunch,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-10,north,lunch,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-10,north,lunch,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-10,north,lunch,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-10,north,lunch,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-10,north,lunch,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -7806,19 +7810,21 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,lunch,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-10,north,lunch,Crust & Co,Sausage Pepper & Onion Pizza,1 pizza,2736.0,139.0,289.0,124.0,26.0,8406.0,"Dairy, Wheat, Pork"
 2026-11-10,north,lunch,Crust & Co,Sausage Pizza,1 pizza,3418.0,160.0,289.0,197.0,30.0,10619.0,"Dairy, Soy, Wheat, Pork"
-2026-11-10,north,lunch,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Deli,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Deli,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-10,north,lunch,Deli,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
+2026-11-10,north,lunch,Deli,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
+2026-11-10,north,lunch,Deli,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Deli,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
+2026-11-10,north,lunch,Deli,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-10,north,lunch,Deli,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
+2026-11-10,north,lunch,Deli,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
+2026-11-10,north,lunch,Deli,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-10,north,lunch,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-10,north,lunch,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
-2026-11-10,north,lunch,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Deli Cheese,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Deli Condiments,Mayonnaise,1 Tbsp,100.0,0.0,1.0,11.0,0.0,75.0,"Egg, Vegetarian"
 2026-11-10,north,lunch,Deli Condiments,Yellow Mustard,1 tsp,0.0,0.0,0.0,0.0,0.0,60.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Deli Meat,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
-2026-11-10,north,lunch,Deli Meat,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
-2026-11-10,north,lunch,Deli Meat,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
-2026-11-10,north,lunch,Deli Meat,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-10,north,lunch,Deli Topping,Dill Pickle,1 slice,0.0,0.0,0.0,0.0,0.0,49.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
@@ -7848,15 +7854,8 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,lunch,Global Compass,Steamed Basmati Rice,4 z,180.0,3.0,40.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Green & Grains,Boom Boom Chicken Salad,1 salad,741.0,30.0,27.0,55.0,2.0,1726.0,"Dairy, Egg, Soy, Wheat"
-2026-11-10,north,lunch,Green & Grains,Double Grilled Chicken Breast Chunks,3 z,120.0,18.0,3.0,3.5,0.0,590.0,High Performance
-2026-11-10,north,lunch,Green & Grains,Dressing Boom Boom,1 fl oz,171.0,0.0,2.0,18.0,0.0,273.0,"Egg, Vegetarian"
-2026-11-10,north,lunch,Green & Grains,Shredded Pepper Jack,1 oz,110.0,7.0,1.0,9.0,0.0,170.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Green & Grains,Tri-Color Tortilla Strips,1 oz,142.0,0.0,16.0,8.0,0.0,61.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Grill Condiments,Ketchup,1 oz,6.0,0.0,1.0,0.0,0.0,14.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Grill Condiments,Spicy Brown Mustard,1 oz,28.0,0.0,0.0,0.0,0.0,283.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Homestyle 2,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
-2026-11-10,north,lunch,Homestyle 2,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
-2026-11-10,north,lunch,Homestyle 2,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
 2026-11-10,north,lunch,Juice,Apple Juice,6 flz cup,14.0,0.0,4.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Juice,Orange,6 flz cup,17.0,0.0,4.0,0.0,0.0,8.0,"Vegan, Vegetarian"
@@ -7885,39 +7884,54 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,lunch,Milk,Oat Milk,1 cups,111.0,1.0,13.0,6.0,1.0,106.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Milk,Skim,8 flz,79.0,8.0,11.0,0.0,0.0,118.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Milk,Soy,1 cups,101.0,8.0,10.0,3.0,3.0,81.0,"Soy, Vegan, Vegetarian"
-2026-11-10,north,lunch,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-10,north,lunch,Other Food Items,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Double Grilled Chicken Breast Chunks,3 z,120.0,18.0,3.0,3.5,0.0,590.0,High Performance
+2026-11-10,north,lunch,Other Food Items,Dressing Boom Boom,1 fl oz,171.0,0.0,2.0,18.0,0.0,273.0,"Egg, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Peppadew Pepper,1 Tbsp,33.0,0.0,8.0,0.0,0.0,61.0,"Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Shredded Pepper Jack,1 oz,110.0,7.0,1.0,9.0,0.0,170.0,"Dairy, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Other Food Items,Tri-Color Tortilla Strips,1 oz,142.0,0.0,16.0,8.0,0.0,61.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Other Food Items,Tuna,0.25 cups,34.0,8.0,0.0,0.2,0.0,146.0,Fish
 2026-11-10,north,lunch,Pastaria,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
 2026-11-10,north,lunch,Protein Bar,Quinoa & Lentil Salad,3 z,196.0,6.0,21.0,9.0,4.0,680.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Salad Bar,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
 2026-11-10,north,lunch,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Baby Carrots,3 carrot,9.0,0.0,2.0,0.0,1.0,16.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Black Beans,1 oz,24.0,2.0,4.0,0.0,1.0,28.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Broccoli Florets,4 z,36.0,3.0,8.0,0.4,4.0,47.0,"Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Celery Sticks,1 oz,4.0,0.0,1.0,0.1,1.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
+2026-11-10,north,lunch,Salad Bar,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
 2026-11-10,north,lunch,Salad Bar,Croutons,1 oz,121.0,4.0,20.0,4.1,0.0,304.0,"Dairy, Wheat, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-10,north,lunch,Salad Bar,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Feta Cheese,1 oz,71.0,4.0,1.0,6.0,0.0,324.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Garbanzo Beans,1 oz,28.0,2.0,5.0,0.4,1.0,31.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Mushroom,1 Tbsp,2.0,0.0,0.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Red Onion,1 Tbsp,3.0,0.0,1.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Shredded Carrot,1 Tbsp,2.0,0.0,1.0,0.0,0.0,4.0,"Vegan, Vegetarian"
+2026-11-10,north,lunch,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Sweetened Applesauce,1 #10 can,2187.0,0.0,535.0,0.0,49.0,243.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Tomato,1 oz,5.0,0.0,1.0,0.0,0.0,2.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar,Tri Color Peppers,1 serving,11.0,0.0,2.0,0.0,1.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
-2026-11-10,north,lunch,Salad Bar Dressing,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
-2026-11-10,north,lunch,Salad Bar Dressing,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
-2026-11-10,north,lunch,Salad Bar Dressing,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
-2026-11-10,north,lunch,Salad Bar Dressing,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar Greens,Iceberg Lettuce,1 cups,6.0,0.0,2.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar Greens,Spinach,1 oz,5.0,1.0,1.0,0.0,1.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-10,north,lunch,Salad Bar Greens,Spring Mix,1 oz,5.0,0.0,1.0,0.1,1.0,8.0,"High Performance, Vegan, Vegetarian"
@@ -7945,18 +7959,21 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-10,north,lunch,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-10,north,lunch,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-10,north,lunch,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
-2026-11-10,north,lunch,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-10,north,lunch,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-10,north,lunch,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-11,north,breakfast,"Bar, MYOO",Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
+2026-11-11,north,breakfast,"Bar, MYOO",Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
+2026-11-11,north,breakfast,"Bar, MYOO",Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
 2026-11-11,north,breakfast,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
 2026-11-11,north,breakfast,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
 2026-11-11,north,breakfast,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-11,north,breakfast,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-11,north,breakfast,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-11,north,breakfast,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-11,north,breakfast,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-11,north,breakfast,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-11,north,breakfast,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -7974,7 +7991,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,breakfast,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-11,north,breakfast,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
@@ -8003,25 +8019,24 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,breakfast,Oatmeal Toppings,Light Brown Sugar,1 tsp,15.0,0.0,4.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,Oatmeal Toppings,Nutmeg,0.25 tsp,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,Oatmeal Toppings,Raisins,1 oz,92.0,1.0,22.0,0.0,1.0,7.0,"Vegan, Vegetarian"
-2026-11-11,north,breakfast,Omelets,Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
-2026-11-11,north,breakfast,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
-2026-11-11,north,breakfast,Other Food Items,Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
-2026-11-11,north,breakfast,Other Food Items,Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
-2026-11-11,north,breakfast,Other Food Items,Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
+2026-11-11,north,breakfast,Oatmeal Toppings,Spinach,0.25 cups,4.0,1.0,1.0,0.0,1.0,18.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,breakfast,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Pastries,Blueberry Muffin Top,1.95 z,171.0,1.0,25.0,7.0,2.0,149.0,"Egg, Wheat, Vegetarian"
 2026-11-11,north,breakfast,Pastries,Chocolate Chip Muffin Top,1.95 z,182.0,2.0,27.0,8.0,2.0,176.0,"Egg, Soy, Wheat, Vegetarian"
 2026-11-11,north,breakfast,Pastries,Glazed Donut,1 donut,260.0,4.0,31.0,14.0,1.0,260.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-11,north,breakfast,Pastries,Sour Cream Glaze Cake Donut,1 ct,382.0,4.0,51.0,19.0,1.0,333.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-11,north,breakfast,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,breakfast,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-11,north,breakfast,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-11,north,breakfast,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-11,north,breakfast,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-11,north,breakfast,Salad Bar,Green Pepper,1 oz,6.0,0.0,1.0,0.0,1.0,0.0,"Vegan, Vegetarian"
-2026-11-11,north,breakfast,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-11,north,breakfast,Salad Bar,Mushroom,0.25 cups,4.0,0.0,1.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Salad Bar,Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-11,north,breakfast,Salad Bar,Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
-2026-11-11,north,breakfast,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-11,north,breakfast,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-11,north,breakfast,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
+2026-11-11,north,breakfast,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-11,north,breakfast,Salad Bar,Tomato,1 oz,5.0,0.0,1.0,0.0,0.0,2.0,"High Performance, Vegan, Vegetarian"
-2026-11-11,north,breakfast,Salad Bar Greens,Spinach,0.25 cups,4.0,1.0,1.0,0.0,1.0,18.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Sunrise Kitchen,Chicken Sausage Link,2 link,115.0,18.0,0.0,4.1,0.0,600.0,
 2026-11-11,north,breakfast,Sunrise Kitchen,Egg & Bacon Quesadilla,1 quesadilla,388.0,20.0,29.0,22.0,1.0,837.0,"Dairy, Egg, Soy, Wheat, Pork"
 2026-11-11,north,breakfast,Sunrise Kitchen,Hard Boiled Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
@@ -8033,7 +8048,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,breakfast,The Global Compass,Fresh Strawberries in Syrup,3 z,69.0,1.0,18.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,The Global Compass,Fresh Whipped Cream,1 fl oz,46.0,0.0,2.0,4.4,0.0,0.0,Dairy
 2026-11-11,north,breakfast,The Global Compass,Oatmeal,4 z,77.0,3.0,14.0,0.0,2.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-11,north,breakfast,The Global Compass,Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
 2026-11-11,north,breakfast,Toasting Station,Peanut Butter,0.75 z,122.0,4.0,6.0,10.0,1.0,103.0,"Peanuts, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Toasting Station,Unsalted Butter,1 oz,28.0,0.0,0.0,3.1,0.0,27.0,"Dairy, Vegetarian"
 2026-11-11,north,breakfast,Toasting Station Bagels,Plain Bagels,4.5 z,316.0,11.0,65.0,1.0,2.0,575.0,"Soy, Wheat, Vegan, Vegetarian"
@@ -8046,14 +8060,10 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,breakfast,Toppings,Ground Flax Seed,1 oz,151.0,5.0,8.0,12.0,8.0,9.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,breakfast,Waffle and Pancake Toppings,Semi Sweet Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-11,north,breakfast,Waffle and Pancake Toppings,Whipped Butter,1 butter cup,40.0,0.0,0.0,4.0,0.0,30.0,"Dairy, Vegetarian"
-2026-11-11,north,breakfast,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-11,north,breakfast,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-11,north,breakfast,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-11,north,breakfast,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-11,north,breakfast,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-11,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
+2026-11-11,north,dinner,Broth Lab,Shrimp Pineapple Fried Rice,4 z,323.0,9.0,58.0,4.3,0.0,276.0,"Fish, Shellfish, Soy, High Performance, Pork"
 2026-11-11,north,dinner,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
 2026-11-11,north,dinner,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
@@ -8078,17 +8088,13 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-11,north,dinner,Comfort Kitchen,Bacon Apple Spaetzle,3 z,198.0,7.0,24.0,8.0,1.0,454.0,"Egg, Wheat, Pork"
 2026-11-11,north,dinner,Comfort Kitchen,Clubhouse Potato Chips,2 z,125.0,1.0,10.0,10.0,1.0,549.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Comfort Kitchen,Coleslaw,0.5 cups,180.0,1.0,19.0,11.0,2.0,380.0,"Egg, Vegetarian"
 2026-11-11,north,dinner,Comfort Kitchen,Cornbread Muffins,1 muffin,283.0,4.0,53.0,6.0,0.0,473.0,"Dairy, Egg, Wheat, Vegetarian"
-2026-11-11,north,dinner,Comfort Kitchen,Hungarian Goulash,4 flz,178.0,14.0,12.0,8.0,1.0,648.0,Wheat
 2026-11-11,north,dinner,Comfort Kitchen,Potato Salad,4 oz,269.0,3.0,15.0,22.0,1.0,554.0,"Dairy, Egg, Pork"
-2026-11-11,north,dinner,Comfort Kitchen,Roasted Balsamic Brussel Sprouts,4 z,89.0,3.0,14.0,2.7,4.0,307.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Comfort Kitchen,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-11,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-11,north,dinner,Crust & Co,Margherita Pizza,1 pizza,2498.0,101.0,302.0,102.0,25.0,6267.0,"Dairy, Wheat, Vegetarian"
-2026-11-11,north,dinner,Crust & Co,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
 2026-11-11,north,dinner,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
 2026-11-11,north,dinner,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
@@ -8103,6 +8109,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Dessert,Cinnamon Sticks,1 stick,102.0,2.0,17.0,3.4,1.0,116.0,"Dairy, Wheat, Vegetarian"
+2026-11-11,north,dinner,Dessert,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
 2026-11-11,north,dinner,Dessert,Vegan Chocolate Mousse,2.5 oz cup,133.0,1.0,18.0,6.0,1.0,139.0,"Soy, Vegan, Vegetarian"
 2026-11-11,north,dinner,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-11,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
@@ -8110,6 +8117,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Domer Diner,Hand Breaded Chicken Tenders,4 z,245.0,17.0,27.0,7.0,1.0,766.0,"Dairy, Egg, Wheat"
 2026-11-11,north,dinner,Domer Diner,Housemade Ranch,1 lbs,1758.0,7.0,33.0,202.0,0.0,2502.0,"Dairy, Egg, Vegetarian"
 2026-11-11,north,dinner,Domer Diner,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
+2026-11-11,north,dinner,Domer Diner,Pasta with Alfredo Sauce,8 z,600.0,17.0,77.0,25.0,4.0,815.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-11,north,dinner,Domer Diner,Smash Burger,1 burger,569.0,28.0,51.0,27.0,2.0,1176.0,"Sesame, Wheat"
 2026-11-11,north,dinner,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
 2026-11-11,north,dinner,Fountain Drinks,Cherry Coke,12 z cup,144.0,0.0,40.0,0.0,0.0,45.0,"Vegan, Vegetarian"
@@ -8126,7 +8134,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Fresh Fruit,Orange,1 orange,96.0,2.0,24.0,0.2,5.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Global Compass,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Global Compass,Orange Chicken,4 z,199.0,10.0,21.0,8.0,1.0,733.0,"Dairy, Egg, Sesame, Soy, Wheat"
-2026-11-11,north,dinner,Global Compass,Shrimp Pineapple Fried Rice,4 z,323.0,9.0,58.0,4.3,0.0,276.0,"Fish, Shellfish, Soy, High Performance, Pork"
 2026-11-11,north,dinner,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Global Compass,Steamed Pork Bao Bun,1 bun,130.0,6.0,23.0,4.0,0.0,150.0,"Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-11,north,dinner,Green & Grains,Interactive Caprese Chicken Salad,1 varies with choice,697.0,37.0,32.0,50.0,3.0,1437.0,"Dairy, Soy, Wheat"
@@ -8139,7 +8146,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Juice,Orange,6 flz cup,17.0,0.0,4.0,0.0,0.0,8.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,La Mesa,Fresh Guacamole,3 z,99.0,1.0,6.0,9.0,4.0,46.0,"High Performance, Vegan, Vegetarian"
-2026-11-11,north,dinner,La Mesa,Jerk Chicken,8 z,441.0,41.0,11.0,25.0,0.0,1082.0,Soy
+2026-11-11,north,dinner,La Mesa,Jerk Chicken,8 z,447.0,41.0,13.0,25.0,0.0,1083.0,Soy
 2026-11-11,north,dinner,La Mesa,Jollof Rice,6 oz,429.0,9.0,83.0,5.0,0.0,46.0,
 2026-11-11,north,dinner,La Mesa,Salsa Mango,2 flz,26.0,0.0,8.0,0.0,1.0,49.0,Vegetarian
 2026-11-11,north,dinner,La Mesa,Salsa Verde,1 fl oz,68.0,0.0,2.0,6.0,0.0,118.0,"Vegan, Vegetarian"
@@ -8151,7 +8158,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Mezze,Chicken Marsala,1 serving,264.0,22.0,8.0,16.0,1.0,644.0,"Wheat, High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Mezze,Garlic Knots,1 garlic knot,49.0,1.0,7.0,1.7,0.0,83.0,"Dairy, Wheat, Vegetarian"
 2026-11-11,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
-2026-11-11,north,dinner,Mezze,Pasta with Alfredo Sauce,8 z,600.0,17.0,77.0,25.0,4.0,815.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-11,north,dinner,Mezze,Quinoa,4 z,403.0,15.0,76.0,5.0,8.0,159.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Mezze,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Milk,1% Chocolate Milk,1 cups,148.0,8.0,24.0,2.5,0.0,227.0,Dairy
@@ -8210,13 +8216,15 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-11,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-11,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-11,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
 2026-11-11,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
 2026-11-11,north,dinner,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
+2026-11-11,north,dinner,Yogurt,Polish Sausage,1 sausage,466.0,20.0,0.0,41.0,0.0,1276.0,Dairy
+2026-11-11,north,dinner,Yogurt,Potato n'Cheese Pierogi,1 pierogi,124.0,2.0,11.0,8.0,1.0,177.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-11,north,dinner,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-11,north,lunch,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-11,north,dinner,Yogurt,Sweet n' Sour Cabbage,5 z,180.0,10.0,15.0,10.0,3.0,833.0,Pork
 2026-11-11,north,lunch,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-11,north,lunch,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -8224,7 +8232,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,lunch,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-11,north,lunch,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-11,north,lunch,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-11,north,lunch,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-11,north,lunch,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-11,north,lunch,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-11,north,lunch,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -8249,19 +8256,21 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,lunch,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-11,north,lunch,Crust & Co,Margherita Pizza,1 pizza,2498.0,101.0,302.0,102.0,25.0,6267.0,"Dairy, Wheat, Vegetarian"
 2026-11-11,north,lunch,Crust & Co,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
-2026-11-11,north,lunch,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Deli,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Deli,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-11,north,lunch,Deli,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
+2026-11-11,north,lunch,Deli,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
+2026-11-11,north,lunch,Deli,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
-2026-11-11,north,lunch,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Deli,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
+2026-11-11,north,lunch,Deli,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-11,north,lunch,Deli,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
+2026-11-11,north,lunch,Deli,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
+2026-11-11,north,lunch,Deli,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-11,north,lunch,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-11,north,lunch,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
-2026-11-11,north,lunch,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
-2026-11-11,north,lunch,Deli Cheese,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Deli Condiments,Mayonnaise,1 Tbsp,100.0,0.0,1.0,11.0,0.0,75.0,"Egg, Vegetarian"
 2026-11-11,north,lunch,Deli Condiments,Yellow Mustard,1 tsp,0.0,0.0,0.0,0.0,0.0,60.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Deli Meat,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
-2026-11-11,north,lunch,Deli Meat,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
-2026-11-11,north,lunch,Deli Meat,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
-2026-11-11,north,lunch,Deli Meat,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
 2026-11-11,north,lunch,Deli Topping,Dill Pickle,1 slice,0.0,0.0,0.0,0.0,0.0,49.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
@@ -8294,15 +8303,12 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,lunch,Green & Grains,Interactive Caprese Chicken Salad,1 varies with choice,697.0,37.0,32.0,50.0,3.0,1437.0,"Dairy, Soy, Wheat"
 2026-11-11,north,lunch,Grill Condiments,Ketchup,1 oz,6.0,0.0,1.0,0.0,0.0,14.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Grill Condiments,Spicy Brown Mustard,1 oz,28.0,0.0,0.0,0.0,0.0,283.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Homestyle 2,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
-2026-11-11,north,lunch,Homestyle 2,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
-2026-11-11,north,lunch,Homestyle 2,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
 2026-11-11,north,lunch,Juice,Apple Juice,6 flz cup,14.0,0.0,4.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Juice,Orange,6 flz cup,17.0,0.0,4.0,0.0,0.0,8.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,La Mesa,Char Grilled Zucchini,1.14 z,83.0,1.0,2.0,8.0,1.0,159.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,La Mesa,Fresh Guacamole,3 z,99.0,1.0,6.0,9.0,4.0,46.0,"High Performance, Vegan, Vegetarian"
-2026-11-11,north,lunch,La Mesa,Jerk Chicken,8 z,441.0,41.0,11.0,25.0,0.0,1082.0,Soy
+2026-11-11,north,lunch,La Mesa,Jerk Chicken,8 z,447.0,41.0,13.0,25.0,0.0,1083.0,Soy
 2026-11-11,north,lunch,La Mesa,Jollof Rice,6 oz,429.0,9.0,83.0,5.0,0.0,46.0,
 2026-11-11,north,lunch,La Mesa,Salsa Mango,2 flz,26.0,0.0,8.0,0.0,1.0,49.0,Vegetarian
 2026-11-11,north,lunch,La Mesa,Salsa Verde,1 fl oz,68.0,0.0,2.0,6.0,0.0,118.0,"Vegan, Vegetarian"
@@ -8326,37 +8332,47 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,lunch,Milk,Oat Milk,1 cups,111.0,1.0,13.0,6.0,1.0,106.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Milk,Skim,8 flz,79.0,8.0,11.0,0.0,0.0,118.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Milk,Soy,1 cups,101.0,8.0,10.0,3.0,3.0,81.0,"Soy, Vegan, Vegetarian"
-2026-11-11,north,lunch,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-11,north,lunch,Other Food Items,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Other Food Items,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Other Food Items,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
+2026-11-11,north,lunch,Other Food Items,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-11,north,lunch,Other Food Items,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-11,north,lunch,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Other Food Items,Tuna,0.25 cups,34.0,8.0,0.0,0.2,0.0,146.0,Fish
 2026-11-11,north,lunch,Pastaria,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
 2026-11-11,north,lunch,Protein Bar,Quinoa & Lentil Salad,3 z,196.0,6.0,21.0,9.0,4.0,680.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Salad Bar,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
 2026-11-11,north,lunch,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Baby Carrots,3 carrot,9.0,0.0,2.0,0.0,1.0,16.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Black Beans,1 oz,24.0,2.0,4.0,0.0,1.0,28.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Broccoli Florets,4 z,36.0,3.0,8.0,0.4,4.0,47.0,"Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Celery Sticks,1 oz,4.0,0.0,1.0,0.1,1.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
+2026-11-11,north,lunch,Salad Bar,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
 2026-11-11,north,lunch,Salad Bar,Croutons,1 oz,121.0,4.0,20.0,4.1,0.0,304.0,"Dairy, Wheat, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-11,north,lunch,Salad Bar,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Feta Cheese,1 oz,71.0,4.0,1.0,6.0,0.0,324.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Garbanzo Beans,1 oz,28.0,2.0,5.0,0.4,1.0,31.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Mushroom,1 Tbsp,2.0,0.0,0.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Shredded Carrot,1 Tbsp,2.0,0.0,1.0,0.0,0.0,4.0,"Vegan, Vegetarian"
+2026-11-11,north,lunch,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Sweetened Applesauce,1 #10 can,2187.0,0.0,535.0,0.0,49.0,243.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar,Tri Color Peppers,1 serving,11.0,0.0,2.0,0.0,1.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
-2026-11-11,north,lunch,Salad Bar Dressing,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
-2026-11-11,north,lunch,Salad Bar Dressing,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
-2026-11-11,north,lunch,Salad Bar Dressing,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
-2026-11-11,north,lunch,Salad Bar Dressing,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar Greens,Iceberg Lettuce,1 cups,6.0,0.0,2.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar Greens,Spinach,1 oz,5.0,1.0,1.0,0.0,1.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-11,north,lunch,Salad Bar Greens,Spring Mix,1 oz,5.0,0.0,1.0,0.1,1.0,8.0,"High Performance, Vegan, Vegetarian"
@@ -8384,18 +8400,21 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-11,north,lunch,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-11,north,lunch,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-11,north,lunch,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
-2026-11-11,north,lunch,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-11,north,lunch,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-11,north,lunch,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-11,north,lunch,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-11,north,lunch,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-12,north,breakfast,"Bar, MYOO",Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
+2026-11-12,north,breakfast,"Bar, MYOO",Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
+2026-11-12,north,breakfast,"Bar, MYOO",Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
 2026-11-12,north,breakfast,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
 2026-11-12,north,breakfast,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
 2026-11-12,north,breakfast,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
 2026-11-12,north,breakfast,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
 2026-11-12,north,breakfast,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
-2026-11-12,north,breakfast,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-12,north,breakfast,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
 2026-11-12,north,breakfast,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
 2026-11-12,north,breakfast,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
@@ -8413,7 +8432,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,breakfast,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
-2026-11-12,north,breakfast,Deli,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Deli Breads & Wraps,Wheat Bread,1 slice,77.0,3.0,15.0,0.9,1.0,154.0,"Wheat, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Deli Breads & Wraps,White Bread,1 slice,59.0,2.0,12.0,0.5,1.0,135.0,"Wheat, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
@@ -8442,23 +8460,22 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,breakfast,Oatmeal Toppings,Light Brown Sugar,1 tsp,15.0,0.0,4.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,Oatmeal Toppings,Nutmeg,0.25 tsp,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,Oatmeal Toppings,Raisins,1 oz,92.0,1.0,22.0,0.0,1.0,7.0,"Vegan, Vegetarian"
-2026-11-12,north,breakfast,Omelets,Large Fresh Egg,1 egg,79.0,7.0,0.0,6.0,0.0,79.0,"Egg, High Performance, Vegetarian"
-2026-11-12,north,breakfast,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
-2026-11-12,north,breakfast,Other Food Items,Flour Tortilla,1 tortilla,171.0,4.0,29.0,4.5,1.0,323.0,"Wheat, Vegan, Vegetarian"
-2026-11-12,north,breakfast,Other Food Items,Ham,1 oz,35.0,5.0,2.0,1.3,0.0,354.0,Pork
-2026-11-12,north,breakfast,Other Food Items,Sausage,1 z,121.0,3.0,1.0,12.0,0.0,162.0,Pork
+2026-11-12,north,breakfast,Other Food Items,Tomato,1 tomatoe,19.0,1.0,4.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Pastries,Blueberry Muffin Top,1.95 z,171.0,1.0,25.0,7.0,2.0,149.0,"Egg, Wheat, Vegetarian"
 2026-11-12,north,breakfast,Pastries,Chocolate Chip Muffin Top,1.95 z,182.0,2.0,27.0,8.0,2.0,176.0,"Egg, Soy, Wheat, Vegetarian"
 2026-11-12,north,breakfast,Pastries,Glazed Donut,1 donut,260.0,4.0,31.0,14.0,1.0,260.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-12,north,breakfast,Pastries,Sour Cream Glaze Cake Donut,1 ct,382.0,4.0,51.0,19.0,1.0,333.0,"Dairy, Egg, Soy, Wheat, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar,Avocado,2 z,94.0,1.0,5.0,9.0,4.0,5.0,"High Performance, Vegan, Vegetarian"
+2026-11-12,north,breakfast,Salad Bar,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-12,north,breakfast,Salad Bar,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-12,north,breakfast,Salad Bar,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar,Green Pepper,1 oz,6.0,0.0,1.0,0.0,1.0,0.0,"Vegan, Vegetarian"
-2026-11-12,north,breakfast,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar,Mushroom,0.25 cups,4.0,0.0,1.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar,Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-12,north,breakfast,Salad Bar,Part-Skim Mozzarella,1 z,81.0,6.0,1.0,6.0,0.0,202.0,"Dairy, Vegetarian"
-2026-11-12,north,breakfast,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-12,north,breakfast,Salad Bar,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-12,north,breakfast,Salad Bar,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
+2026-11-12,north,breakfast,Salad Bar,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar,Tomato,1 oz,5.0,0.0,1.0,0.0,0.0,2.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Salad Bar Greens,Spinach,0.25 cups,4.0,1.0,1.0,0.0,1.0,18.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Sunrise Kitchen,Chicken Sausage Link,2 link,115.0,18.0,0.0,4.1,0.0,600.0,
@@ -8472,7 +8489,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,breakfast,The Global Compass,Fresh Strawberries in Syrup,3 z,69.0,1.0,18.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,The Global Compass,Fresh Whipped Cream,1 fl oz,46.0,0.0,2.0,4.4,0.0,0.0,Dairy
 2026-11-12,north,breakfast,The Global Compass,Oatmeal,4 z,77.0,3.0,14.0,0.0,2.0,0.0,"High Performance, Vegan, Vegetarian"
-2026-11-12,north,breakfast,The Global Compass,Raw Plant Based Egg Liquid,1 oz,37.0,3.0,0.0,2.5,0.0,129.0,"Vegan, Vegetarian"
 2026-11-12,north,breakfast,Toasting Station,Peanut Butter,0.75 z,122.0,4.0,6.0,10.0,1.0,103.0,"Peanuts, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Toasting Station,Unsalted Butter,1 oz,28.0,0.0,0.0,3.1,0.0,27.0,"Dairy, Vegetarian"
 2026-11-12,north,breakfast,Toasting Station Bagels,Plain Bagels,4.5 z,316.0,11.0,65.0,1.0,2.0,575.0,"Soy, Wheat, Vegan, Vegetarian"
@@ -8485,13 +8501,9 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,breakfast,Toppings,Ground Flax Seed,1 oz,151.0,5.0,8.0,12.0,8.0,9.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,breakfast,Waffle and Pancake Toppings,Semi Sweet Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
 2026-11-12,north,breakfast,Waffle and Pancake Toppings,Whipped Butter,1 butter cup,40.0,0.0,0.0,4.0,0.0,30.0,"Dairy, Vegetarian"
-2026-11-12,north,breakfast,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
-2026-11-12,north,breakfast,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
-2026-11-12,north,breakfast,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
-2026-11-12,north,breakfast,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
-2026-11-12,north,breakfast,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-12,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,dinner,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-12,north,dinner,Broth Lab,Kimchi Fried Rice,3 z,214.0,5.0,40.0,2.8,1.0,380.0,"Egg, Soy, Vegetarian"
 2026-11-12,north,dinner,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-12,north,dinner,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-12,north,dinner,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -8527,7 +8539,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,dinner,Comfort Kitchen,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-12,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-12,north,dinner,Crust & Co,Sausage Pizza,1 pizza,3418.0,160.0,289.0,197.0,30.0,10619.0,"Dairy, Soy, Wheat, Pork"
-2026-11-12,north,dinner,Crust & Co,White Sauce & Caramelized Onion Pizza,1 pizza,3084.0,114.0,310.0,164.0,21.0,3938.0,"Dairy, Wheat, Vegetarian"
 2026-11-12,north,dinner,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
 2026-11-12,north,dinner,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
@@ -8543,11 +8554,13 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,dinner,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Dessert,Apple Crisp,1 portion,223.0,3.0,46.0,3.3,3.0,65.0,"Dairy, Wheat, Vegetarian"
+2026-11-12,north,dinner,Dessert,White Sauce & Caramelized Onion Pizza,1 pizza,3084.0,114.0,310.0,164.0,21.0,3938.0,"Dairy, Wheat, Vegetarian"
 2026-11-12,north,dinner,Domer Diner,Cantina Sandwich,1 sandwich,770.0,56.0,67.0,31.0,5.0,3662.0,"Dairy, Egg, Sesame, Soy, Wheat, Pork"
 2026-11-12,north,dinner,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-12,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
 2026-11-12,north,dinner,Domer Diner,Garden Herb Grilled Chicken,1 tender,112.0,21.0,0.0,2.5,0.0,39.0,High Performance
 2026-11-12,north,dinner,Domer Diner,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
+2026-11-12,north,dinner,Domer Diner,Provencal Vegetables Hot-Pot,1 pot,2793.0,82.0,403.0,122.0,103.0,25440.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Domer Diner,Smash Burger,1 burger,569.0,28.0,51.0,27.0,2.0,1176.0,"Sesame, Wheat"
 2026-11-12,north,dinner,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
 2026-11-12,north,dinner,Fountain Drinks,Cherry Coke,12 z cup,144.0,0.0,40.0,0.0,0.0,45.0,"Vegan, Vegetarian"
@@ -8564,7 +8577,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,dinner,Fresh Fruit,Orange,1 orange,96.0,2.0,24.0,0.2,5.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,dinner,Global Compass,Chef's Ann Kim Korean Bulgogi,4 oz,163.0,17.0,6.0,7.0,0.0,678.0,"Sesame, Soy"
 2026-11-12,north,dinner,Global Compass,Egg Roll,1 egg roll,168.0,3.0,17.0,7.0,2.0,413.0,"Egg, Sesame, Soy, Wheat, Vegetarian"
-2026-11-12,north,dinner,Global Compass,Kimchi Fried Rice,3 z,214.0,5.0,40.0,2.8,1.0,380.0,"Egg, Soy, Vegetarian"
 2026-11-12,north,dinner,Global Compass,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Global Compass,Steamed Brown Rice,4 z,424.0,7.0,85.0,3.7,5.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Green & Grains,Double Grilled Chicken Breast Chunks,3 z,120.0,18.0,3.0,3.5,0.0,590.0,High Performance
@@ -8592,7 +8604,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,dinner,Mezze,Creamy Garlic Butter Tuscan Salmon,1 serving,671.0,45.0,32.0,41.0,5.0,964.0,"Dairy, Fish"
 2026-11-12,north,dinner,Mezze,Emil's Parmesan Oatmeal Bread,1 roll,208.0,6.0,29.0,7.0,2.0,446.0,"Dairy, Wheat, Vegetarian"
 2026-11-12,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
-2026-11-12,north,dinner,Mezze,Provencal Vegetables Hot-Pot,1 pot,2793.0,82.0,403.0,122.0,103.0,25440.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Mezze,Quinoa,4 z,403.0,15.0,76.0,5.0,8.0,159.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Mezze,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Mezze,Vodka Sauce Pasta,8 z,430.0,10.0,32.0,29.0,2.0,744.0,"Dairy, Wheat, Vegetarian"
@@ -8653,6 +8664,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-12,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-12,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-12,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-12,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-12,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-12,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
 2026-11-12,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
@@ -8941,6 +8953,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,breakfast,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-13,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
 2026-11-13,north,dinner,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-13,north,dinner,Broth Lab,Fried Rice,4 z,317.0,10.0,57.0,4.0,0.0,639.0,"Egg, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-13,north,dinner,Broth Lab,Ramen Bar,20 oz bowl,1107.0,50.0,93.0,57.0,7.0,3199.0,"Dairy, Egg, Fish, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-13,north,dinner,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
 2026-11-13,north,dinner,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
@@ -8972,7 +8985,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,dinner,Comfort Kitchen,Vegetarian Macaroni Pasta Salad,0.75 cups,240.0,5.0,30.0,11.0,1.0,550.0,"Egg, Wheat, Vegetarian"
 2026-11-13,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
 2026-11-13,north,dinner,Crust & Co,Pepperoni Pizza,1 pizza,3682.0,161.0,274.0,225.0,25.0,11226.0,"Dairy, Wheat"
-2026-11-13,north,dinner,Crust & Co,Smoked Salmon Pizza,1 pizza,2085.0,76.0,229.0,80.0,10.0,2486.0,"Dairy, Fish, Soy, Wheat, High Performance"
 2026-11-13,north,dinner,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
 2026-11-13,north,dinner,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
@@ -8987,6 +8999,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,dinner,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Dessert,Chai Panna Cotta,2.5 oz cup,130.0,1.0,9.0,10.0,0.0,11.0,Dairy
+2026-11-13,north,dinner,Dessert,Smoked Salmon Pizza,1 pizza,2085.0,76.0,229.0,80.0,10.0,2486.0,"Dairy, Fish, Soy, Wheat, High Performance"
 2026-11-13,north,dinner,Dessert,Vegan Coconut Mousse,2.5 oz,184.0,0.0,16.0,14.0,0.0,36.0,"Soy, Vegan"
 2026-11-13,north,dinner,Domer Diner,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
 2026-11-13,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
@@ -8994,6 +9007,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,dinner,Domer Diner,Hand Breaded Chicken Tenders,4 z,245.0,17.0,27.0,7.0,1.0,766.0,"Dairy, Egg, Wheat"
 2026-11-13,north,dinner,Domer Diner,Housemade Ranch,1 lbs,1758.0,7.0,33.0,202.0,0.0,2502.0,"Dairy, Egg, Vegetarian"
 2026-11-13,north,dinner,Domer Diner,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
+2026-11-13,north,dinner,Domer Diner,Pasta with Alfredo Sauce,8 z,600.0,17.0,77.0,25.0,4.0,815.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-13,north,dinner,Domer Diner,Smash Burger,1 burger,569.0,28.0,51.0,27.0,2.0,1176.0,"Sesame, Wheat"
 2026-11-13,north,dinner,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
 2026-11-13,north,dinner,Fountain Drinks,Cherry Coke,12 z cup,144.0,0.0,40.0,0.0,0.0,45.0,"Vegan, Vegetarian"
@@ -9008,7 +9022,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,dinner,Fresh Fruit,Bananas,1 banana,141.0,1.0,35.0,0.0,4.0,0.0,"Vegan, Vegetarian"
 2026-11-13,north,dinner,Fresh Fruit,Gala Apples,1 apple,119.0,1.0,29.0,0.3,5.0,0.0,"Vegan, Vegetarian"
 2026-11-13,north,dinner,Fresh Fruit,Orange,1 orange,96.0,2.0,24.0,0.2,5.0,0.0,"Vegan, Vegetarian"
-2026-11-13,north,dinner,Global Compass,Fried Rice,4 z,317.0,10.0,57.0,4.0,0.0,639.0,"Egg, Sesame, Shellfish, Soy, Wheat, Pork"
 2026-11-13,north,dinner,Global Compass,Long Grain Rice,4 z,403.0,8.0,88.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Global Compass,Pork Potsticker,1 potsticker,50.0,3.0,7.0,1.5,0.0,120.0,"Sesame, Soy, Wheat, Pork"
 2026-11-13,north,dinner,Global Compass,Spicy Sesame Chicken,6 z,351.0,14.0,49.0,11.0,1.0,2461.0,"Dairy, Egg, Sesame, Soy, Wheat"
@@ -9035,7 +9048,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,dinner,Mezze,Garlic Broccolini,4 oz portion,55.0,4.0,7.0,2.1,2.0,208.0,"Dairy, Vegetarian"
 2026-11-13,north,dinner,Mezze,Garlic Parmesan Breadsticks,1 breadstick,141.0,5.0,21.0,4.6,1.0,218.0,"Dairy, Soy, Wheat, Vegetarian"
 2026-11-13,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
-2026-11-13,north,dinner,Mezze,Pasta with Alfredo Sauce,8 z,600.0,17.0,77.0,25.0,4.0,815.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-13,north,dinner,Mezze,Quinoa,4 z,403.0,15.0,76.0,5.0,8.0,159.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Mezze,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Milk,1% Chocolate Milk,1 cups,148.0,8.0,24.0,2.5,0.0,227.0,Dairy
@@ -9094,6 +9106,7 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
 2026-11-13,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
 2026-11-13,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-13,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
 2026-11-13,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
 2026-11-13,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
 2026-11-13,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
@@ -9274,3 +9287,149 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-13,north,lunch,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
 2026-11-13,north,lunch,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
 2026-11-13,north,lunch,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Boom Boom Salad,Sliced Red Onion,1 z slice,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Cereal,Captain Crunch Wildberries,1 cups,177.0,2.0,39.0,2.7,2.0,336.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Cereal,Cheerios,1 cups,110.0,4.0,22.0,2.1,3.0,149.0,Vegetarian
+2026-11-14,north,dinner,Cereal,Cinnamon Toast Crunch,1 cups,207.0,2.0,40.0,4.9,4.0,280.0,"Soy, Wheat, Vegetarian"
+2026-11-14,north,dinner,Cereal,Cocoa Puffs,1 cups,177.0,2.0,40.0,2.3,3.0,166.0,Vegetarian
+2026-11-14,north,dinner,Cereal,Froot Loops,1 cups,205.0,8.0,42.0,1.5,2.0,273.0,"Wheat, Vegetarian"
+2026-11-14,north,dinner,Cereal,Frosted Flakes,1 cups,318.0,13.0,67.0,0.0,2.0,429.0,Vegetarian
+2026-11-14,north,dinner,Cereal,Granola,1 oz,126.0,2.0,20.0,4.7,1.0,100.0,"Soy, Vegetarian"
+2026-11-14,north,dinner,Cereal,Honey Cheerios,0.25 cups,160.0,4.0,33.0,2.5,4.0,253.0,Vegetarian
+2026-11-14,north,dinner,Cereal,Lucky Charms,1 cups,148.0,3.0,32.0,1.6,2.0,243.0,Pork
+2026-11-14,north,dinner,Cereal,Raisin Bran,1 cups,245.0,6.0,61.0,1.3,9.0,258.0,"Wheat, Vegan, Vegetarian"
+2026-11-14,north,dinner,Cereal,Rice Chex,1 cups,172.0,3.0,40.0,0.9,2.0,356.0,Vegetarian
+2026-11-14,north,dinner,Cereal,Special K with Red Berries,1 cups,361.0,16.0,78.0,0.9,5.0,578.0,"Wheat, Vegetarian"
+2026-11-14,north,dinner,Cereal,Trix,1 cups,156.0,2.0,32.0,2.0,1.0,175.0,Vegetarian
+2026-11-14,north,dinner,Coffee & Tea,Black Tea Bag,1 tea bag,0.0,0.0,0.0,0.0,0.0,0.0,Vegetarian
+2026-11-14,north,dinner,Coffee & Tea,Brewed Coffee,6 z,0.0,0.0,0.0,0.0,0.0,7.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,Cafe Delight Cane Sugar Pc,1 stick,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,Coffeemate Hazelnut Creamer,1 fl oz,11.0,0.0,2.0,0.5,0.0,2.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,Coffeemate Original Creamer,1 fl oz,30.0,0.0,0.0,3.0,0.0,0.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,French Vanilla Coffee Creamer,1 fl oz,162.0,0.0,9.0,2.5,0.0,15.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,Honey,1 pkt,25.0,0.0,7.0,0.0,0.0,0.0,Vegetarian
+2026-11-14,north,dinner,Coffee & Tea,Lipton Decaf Tea Bag,1 tea bag,0.0,0.0,0.0,0.0,0.0,0.0,Vegetarian
+2026-11-14,north,dinner,Coffee & Tea,ecoStick Blue Sugar Substitute,1 stick,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,ecoStick Pink Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Coffee & Tea,ecoStick Yellow Sugar Substitute,1 stick,0.0,0.0,1.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Crust & Co,Buffalo Chicken Pizza,1 pizza,2825.0,174.0,269.0,122.0,20.0,14748.0,"Dairy, Egg, Wheat"
+2026-11-14,north,dinner,Crust & Co,Cheese Pizza,1 pizza,2473.0,116.0,274.0,112.0,25.0,6690.0,"Dairy, Wheat, Vegetarian"
+2026-11-14,north,dinner,Crust & Co,Sausage Pizza,1 pizza,3418.0,160.0,289.0,197.0,30.0,10619.0,"Dairy, Soy, Wheat, Pork"
+2026-11-14,north,dinner,Deli,Cucumber Slices,1 slice,2.0,0.0,0.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Deli,Jalapeno Monterey Jack,1 slice,63.0,5.0,0.0,5.0,0.0,108.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Deli Cheese,Mild Cheddar,1 slice,81.0,5.0,0.0,7.0,0.0,137.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Deli Cheese,Provolone Cheese Slice,1 slice,71.0,5.0,0.0,6.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Deli Condiments,Mayonnaise,1 Tbsp,100.0,0.0,1.0,11.0,0.0,75.0,"Egg, Vegetarian"
+2026-11-14,north,dinner,Deli Condiments,Yellow Mustard,1 tsp,0.0,0.0,0.0,0.0,0.0,60.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Deli Meat,Genoa Salami Slices,2 z,223.0,10.0,2.0,20.0,0.0,850.0,Pork
+2026-11-14,north,dinner,Deli Meat,Sliced Smoked Turkey,2.5 z,76.0,13.0,1.0,1.9,0.0,456.0,
+2026-11-14,north,dinner,Deli Meat,Smoked Sliced Ham,1 oz,30.0,5.0,1.0,0.8,0.0,177.0,Pork
+2026-11-14,north,dinner,Deli Meat,Smoked Tempeh,1 oz,47.0,5.0,3.0,1.5,2.0,3.0,"Soy, High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Deli Meat,Tuna Salad,1 z,49.0,4.0,0.0,3.9,0.0,116.0,"Egg, Fish"
+2026-11-14,north,dinner,Deli Topping,Dill Pickle,1 slice,0.0,0.0,0.0,0.0,0.0,49.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Deli Topping,Green Leaf Lettuce,1 leaf,3.0,1.0,1.0,0.0,1.0,6.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Deli Topping,Tomatoes Sliced,1 lbs,76.0,5.0,18.0,0.0,5.0,25.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Dessert,Chicken Patty Sandwich,1 patty,518.0,21.0,63.0,19.0,2.0,1111.0,"Sesame, Soy, Wheat"
+2026-11-14,north,dinner,Dessert,Chicken Verde Soup,8 z,155.0,10.0,16.0,5.0,4.0,820.0,"Dairy, Wheat"
+2026-11-14,north,dinner,Dessert,Make Your Own Pasta Stir Fry,12 oz portion,600.0,23.0,60.0,30.0,4.0,799.0,"Dairy, Egg, Shellfish, Wheat, Pork"
+2026-11-14,north,dinner,Dessert,Malibu Burger,1 burger,160.0,4.0,21.0,8.0,3.0,439.0,"Soy, Wheat, Vegan, Vegetarian"
+2026-11-14,north,dinner,Dessert,Peach Mascarpone Parfait Cups,2.5 oz cup,191.0,1.0,5.0,19.0,0.0,7.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Domer Diner,Caddy Chicken Club Sandwich,1 sandwich,541.0,34.0,48.0,25.0,1.0,1215.0,"Dairy, Egg, Sesame, Soy, Wheat, Pork"
+2026-11-14,north,dinner,Domer Diner,French Fries,3 z,194.0,1.0,17.0,14.0,1.0,322.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Domer Diner,Garden Herb Grilled Chicken,1 tender,112.0,21.0,0.0,2.5,0.0,39.0,High Performance
+2026-11-14,north,dinner,Domer Diner,Smash Burger,1 burger,569.0,28.0,51.0,27.0,2.0,1176.0,"Sesame, Wheat"
+2026-11-14,north,dinner,Fountain Drinks,Barq's Root Beer,12 z cup,173.0,0.0,42.0,0.0,0.0,74.0,
+2026-11-14,north,dinner,Fountain Drinks,Cherry Coke,12 z cup,144.0,0.0,40.0,0.0,0.0,45.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Fountain Drinks,Coke Classic,12 z cup,140.0,0.0,18.0,0.0,0.0,57.0,Vegetarian
+2026-11-14,north,dinner,Fountain Drinks,Coke Zero,12 z cup,0.0,0.0,0.0,0.0,0.0,50.0,Vegetarian
+2026-11-14,north,dinner,Fountain Drinks,Diet Coke,12 z cup,0.0,0.0,0.0,0.0,0.0,50.0,Vegetarian
+2026-11-14,north,dinner,Fountain Drinks,Diet Sprite,12 z cup,0.0,0.0,0.0,0.0,0.0,45.0,
+2026-11-14,north,dinner,Fountain Drinks,Lemonade 12z Cup,12 z cup,144.0,0.0,40.0,0.0,0.0,60.0,
+2026-11-14,north,dinner,Fountain Drinks,Pibb Extra,12 flz cup,0.0,0.0,0.0,0.0,0.0,12.0,
+2026-11-14,north,dinner,Fountain Drinks,Powerade Mountain Blast,12 flz cup,80.0,0.0,21.0,0.0,21.0,252.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Fountain Drinks,Sprite,12 flz cup,129.0,0.0,35.0,0.0,35.0,71.0,
+2026-11-14,north,dinner,Fresh Fruit,Bananas,1 banana,141.0,1.0,35.0,0.0,4.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Fresh Fruit,Gala Apples,1 apple,119.0,1.0,29.0,0.3,5.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Fresh Fruit,Orange,1 orange,96.0,2.0,24.0,0.2,5.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Green & Grains,Popper Bowl,1 customer,639.0,46.0,58.0,20.0,5.0,1665.0,"Dairy, Soy, Wheat"
+2026-11-14,north,dinner,Grill Condiments,Ketchup,1 oz,6.0,0.0,1.0,0.0,0.0,14.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Grill Condiments,Spicy Brown Mustard,1 oz,28.0,0.0,0.0,0.0,0.0,283.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Homestyle 2,Hummus,2 oz,249.0,8.0,23.0,14.0,5.0,457.0,"Sesame, Vegan, Vegetarian"
+2026-11-14,north,dinner,Homestyle 2,Hummus Red Pepper,1 z,65.0,2.0,4.0,4.8,1.0,146.0,"Sesame, High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Homestyle 2,Pita Chips,1 oz,71.0,2.0,13.0,0.5,0.0,56.0,"Wheat, Vegan, Vegetarian"
+2026-11-14,north,dinner,Juice,Apple Juice,6 flz cup,14.0,0.0,4.0,0.0,0.0,6.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Juice,Cranberry,6 flz cup,67.0,0.0,18.0,0.0,0.0,6.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Juice,Orange,6 flz cup,17.0,0.0,4.0,0.0,0.0,8.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,La Mesa,Fresh Guacamole,3 z,99.0,1.0,6.0,9.0,4.0,46.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,La Mesa,Haricot Verts,3 z,49.0,1.0,6.0,2.1,2.0,133.0,"High Performance, Vegetarian"
+2026-11-14,north,dinner,La Mesa,Mexican Pozole,1 gallons,3488.0,188.0,432.0,124.0,76.0,27731.0,Pork
+2026-11-14,north,dinner,La Mesa,Salsa Verde,1 fl oz,68.0,0.0,2.0,6.0,0.0,118.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,La Mesa,Tortilla Chips,1 oz,66.0,2.0,13.0,0.0,2.0,482.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,La Mesa,Yuca Cheese Balls,1 ball,44.0,1.0,6.0,1.9,0.0,96.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Mezze,Baked Sweet Potato,1 potatoe,124.0,3.0,27.0,0.9,4.0,45.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Mezze,Garlic Knots,1 garlic knot,49.0,1.0,7.0,1.7,0.0,83.0,"Dairy, Wheat, Vegetarian"
+2026-11-14,north,dinner,Mezze,Garlic Roasted Hummus,1 z,83.0,2.0,4.0,6.0,1.0,185.0,"Sesame, High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Mezze,Quinoa,2 z,202.0,8.0,38.0,2.5,4.0,80.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Mezze,Sauteed Zucchini & Tomatoes,4 z,111.0,2.0,4.0,10.0,1.0,381.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Mezze,Steamed Broccoli,4 z,35.0,4.0,7.0,0.0,4.0,21.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Mezze,Vodka Sauce Pasta,8 z,430.0,10.0,32.0,29.0,2.0,744.0,"Dairy, Wheat, Vegetarian"
+2026-11-14,north,dinner,Milk,1% Chocolate Milk,1 cups,148.0,8.0,24.0,2.5,0.0,227.0,Dairy
+2026-11-14,north,dinner,Milk,2% Milk,8 flz,118.0,8.0,11.0,4.9,0.0,118.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Milk,Chocolate Pea,1 cups,140.0,8.0,15.0,5.0,2.0,140.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Milk,Oat Milk,1 cups,111.0,1.0,13.0,6.0,1.0,106.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Milk,Skim,8 flz,79.0,8.0,11.0,0.0,0.0,118.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Milk,Soy,1 cups,101.0,8.0,10.0,3.0,3.0,81.0,"Soy, Vegan, Vegetarian"
+2026-11-14,north,dinner,Other Food Items,Bacon,1 Tbsp,61.0,5.0,0.0,4.6,0.0,324.0,Pork
+2026-11-14,north,dinner,Other Food Items,Tuna,0.25 cups,34.0,8.0,0.0,0.2,0.0,146.0,Fish
+2026-11-14,north,dinner,Protein Bar,Quinoa & Lentil Salad,3 z,196.0,6.0,21.0,9.0,4.0,680.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Avocado,1 oz,47.0,0.0,2.0,4.4,2.0,3.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Baby Carrots,3 carrot,9.0,0.0,2.0,0.0,1.0,16.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Black Beans,1 oz,24.0,2.0,4.0,0.0,1.0,28.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Broccoli Florets,4 z,36.0,3.0,8.0,0.4,4.0,47.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Celery Sticks,1 oz,4.0,0.0,1.0,0.1,1.0,23.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Cottage Cheese,0.5 cups,105.0,11.0,5.0,4.9,0.0,486.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Croutons,1 oz,121.0,4.0,20.0,4.1,0.0,304.0,"Dairy, Wheat, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Feta Cheese,1 oz,71.0,4.0,1.0,6.0,0.0,324.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Garbanzo Beans,1 oz,28.0,2.0,5.0,0.4,1.0,31.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Mild Cheddar,1 oz,111.0,6.0,1.0,9.0,0.0,192.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Mushroom,1 Tbsp,2.0,0.0,0.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Plant Based Mozzarella,1 oz,90.0,0.0,6.0,7.0,0.0,510.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Shredded Carrot,1 Tbsp,2.0,0.0,1.0,0.0,0.0,4.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Sweetened Applesauce,1 #10 can,2187.0,0.0,535.0,0.0,49.0,243.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar,Tri Color Peppers,1 serving,11.0,0.0,2.0,0.0,1.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,100% Extra Virgin Olive Oil,1 Tbsp,118.0,0.0,0.0,14.0,0.0,0.0,
+2026-11-14,north,dinner,Salad Bar Dressing,Balsamic Vinaigrette,1 oz,55.0,0.0,5.0,4.6,0.0,192.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Buttermilk Ranch,1 oz,132.0,0.0,1.0,13.0,0.0,182.0,"Dairy, Egg, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Country French,1 oz,124.0,0.0,6.0,12.0,0.0,204.0,Vegetarian
+2026-11-14,north,dinner,Salad Bar Dressing,Creamy Caesar,1 oz,113.0,1.0,2.0,11.0,0.0,293.0,"Dairy, Egg, Fish, Wheat"
+2026-11-14,north,dinner,Salad Bar Dressing,Fat Free Raspberry Vinaigrette,1 fl oz,30.0,0.0,8.0,0.0,0.0,79.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Honey Mustard Dressing,1 fl oz,146.0,0.0,7.0,14.0,0.0,128.0,"Egg, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Lite Ranch,1 oz,66.0,1.0,1.0,7.0,0.0,236.0,"Dairy, Egg, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Low Calorie Italian,2 Tbsp,23.0,0.0,3.0,1.9,0.0,413.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Plant Based Ranch Dressing,2 z,266.0,0.0,4.0,30.0,0.0,302.0,"Egg, High Performance, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Dressing,Red Wine Vinegar,1 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Greens,Iceberg Lettuce,1 cups,6.0,0.0,2.0,0.0,0.0,0.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Greens,Spinach,1 oz,5.0,1.0,1.0,0.0,1.0,23.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Greens,Spring Mix,1 oz,5.0,0.0,1.0,0.1,1.0,8.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Proteins,Chopped Hard Cooked Eggs,0.5 z,20.0,2.0,0.0,1.6,0.0,20.0,Egg
+2026-11-14,north,dinner,Salad Bar Toppings,Light Red Kidney Bean,1 oz,26.0,2.0,5.0,0.0,2.0,31.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Salad Bar Vegetables,Red Grape Tomato,1 oz,8.0,0.0,2.0,0.2,1.0,2.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Soft Serve,Chocolate Soft Serve Ice Cream,4 z,169.0,4.0,26.0,6.0,1.0,130.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Soft Serve,Pineapple DH Dole Whip,4 flz,123.0,0.0,29.0,0.6,0.0,15.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Soft Serve,Strawberry Dole Whip,4 flz,125.0,0.0,30.0,0.0,0.0,15.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Soft Serve,Vanilla Soft Serve Ice Cream,4 z,182.0,4.0,25.0,6.0,0.0,136.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Soup,Danny's Texas Chili,6 z,128.0,8.0,11.0,6.0,2.0,747.0,High Performance
+2026-11-14,north,dinner,Soup,Tomato Bisque Soup,8 oz cup,276.0,3.0,17.0,22.0,3.0,276.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Toppings,Caramel Syrup,1 oz,81.0,0.0,18.0,0.3,0.0,40.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Toppings,Chocolate Chips,1 oz,132.0,2.0,19.0,8.0,2.0,0.0,"Dairy, Soy, Vegetarian"
+2026-11-14,north,dinner,Toppings,Chocolate Syrup,1 oz,67.0,1.0,16.0,0.0,1.0,15.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Toppings,Dried Sweetened Cranberry,1 oz,92.0,0.0,23.0,0.0,2.0,0.0,"Vegan, Vegetarian"
+2026-11-14,north,dinner,Toppings,Oreo Cookie Crumble,1 oz,136.0,1.0,21.0,5.0,1.0,94.0,"Soy, Wheat, Vegan, Vegetarian"
+2026-11-14,north,dinner,Toppings,Rainbow Sprinkles,1 oz,142.0,0.0,21.0,7.0,0.0,0.0,"Soy, Vegetarian"
+2026-11-14,north,dinner,Yogurt,Baked Potato,8 z,193.0,4.0,37.0,2.3,4.0,15.0,"High Performance, Vegan, Vegetarian"
+2026-11-14,north,dinner,Yogurt,Blueberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Yogurt,Deluxe Fruit Salad,1 oz,12.0,0.0,3.0,0.0,0.0,2.0,Vegetarian
+2026-11-14,north,dinner,Yogurt,Plain Fat Free Yogurt,1 oz,13.0,1.0,2.0,0.0,0.0,18.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Yogurt,Plain Greek Yogurt,1 oz,17.0,3.0,1.0,0.0,0.0,11.0,"Dairy, Vegetarian"
+2026-11-14,north,dinner,Yogurt,Strawberry Yogurt,6 z cup,130.0,5.0,24.0,1.5,0.0,85.0,"Dairy, Vegetarian"
