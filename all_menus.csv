@@ -3083,7 +3083,6 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-26,north,dinner,Curry Bar,Scalloped Corn Casserole,0.03 serving,240.0,3.0,30.0,12.0,1.0,266.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-26,north,dinner,Curry Bar,Smoked Salmon,3.8 z,233.0,20.0,2.0,15.0,0.0,464.0,"Dairy, Egg, Fish, High Performance"
 2026-11-26,north,dinner,Curry Bar,Smoked Turkey Legs,1 drumstick,1089.0,132.0,19.0,48.0,0.0,3350.0,
-2026-11-26,north,dinner,Dessert,Apple Pie Soft Serve,1 gallons,6405.0,125.0,950.0,209.0,6.0,4882.0,"Dairy, Vegetarian"
 2026-11-26,north,dinner,Dessert,Classic Pecan Pie,1 slice,534.0,6.0,68.0,29.0,3.0,267.0,"Dairy, Egg, Tree Nuts, Wheat, Vegetarian"
 2026-11-26,north,dinner,Dessert,Pumpkin Pie,1 each,2411.0,51.0,355.0,95.0,11.0,3175.0,"Dairy, Egg, Wheat, Vegetarian"
 2026-11-26,north,dinner,Dessert,Whipped Cream,2 Tbsp,15.0,0.0,1.0,1.0,0.0,0.0,"Dairy, Vegetarian"
@@ -3146,8 +3145,8 @@ date,hall,meal,station,food,serving_size,calories,protein_g,carbs_g,fat_g,fiber_
 2026-11-26,north,dinner,Salad Bar,Herb Butter,0.5 oz,96.0,0.0,0.0,10.0,0.0,141.0,"Dairy, Vegetarian"
 2026-11-26,north,dinner,Salad Bar,Irish Whiskey Glazed Ham,3 z,142.0,13.0,8.0,6.0,0.0,805.0,"High Performance, Pork"
 2026-11-26,north,dinner,Salad Bar,New England Clam Chowder,1 gallons,9215.0,266.0,601.0,638.0,8.0,22225.0,"Dairy, Shellfish, Soy, Wheat, Pork"
-2026-11-26,north,dinner,Salad Bar,Orange Cranberry Chutney,1 oz,37.0,0.0,10.0,0.0,1.0,1.0,"High Performance, Vegan, Vegetarian"
-2026-11-26,north,dinner,Salad Bar,Orange Cranberry Chutney,1 lbs,592.0,2.0,152.0,0.0,8.0,16.0,"High Performance, Vegan, Vegetarian"
+2026-11-26,north,dinner,Salad Bar,Orange Cranberry Chutney,1 oz,37.0,0.0,10.0,0.0,0.0,1.0,"High Performance, Vegan, Vegetarian"
+2026-11-26,north,dinner,Salad Bar,Orange Cranberry Chutney,1 lbs,592.0,2.0,152.0,0.0,8.0,23.0,"High Performance, Vegan, Vegetarian"
 2026-11-26,north,dinner,Salad Bar,"Quinoa with Kale, Feta,Cranberry",3 z,256.0,8.0,44.0,6.0,5.0,273.0,"Dairy, Soy, Vegetarian"
 2026-11-26,north,dinner,Salad Bar,Turkey Gravy,2 z,261.0,2.0,18.0,20.0,1.0,158.0,"Soy, Wheat"
 2026-11-27,north,dinner,Boom Boom Salad,Sliced Red Onion,1 oz,10.0,0.0,3.0,0.0,0.0,0.0,"Vegan, Vegetarian"
